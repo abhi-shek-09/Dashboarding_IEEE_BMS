@@ -1,0 +1,778 @@
+Unique Order ID,Date,Market_size,Market,State,Inventory Margin,Sales,Margin,Cogs,Marketing,Profit,Total_expenses,Product_line,Product_type,Product,Type
+LHL2-303-691,10-01-2012,Major Market,Central,Colorado,503,122,71,51,46,-5,76,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-970-876,10-01-2012,Major Market,Central,Colorado,405,123,71,52,17,26,45,Leaves,Herbal Tea,Mint,Decaf
+LTG1-562-476,10-04-2012,Major Market,West,California,650,182,110,72,23,62,54,Leaves,Tea,Green Tea,Regular
+BCD2-918-495,10-07-2012,Small Market,South,Oklahoma,859,66,39,27,7,-99,18,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-775-592,10-08-2012,Small Market,West,Nevada,1000,68,37,31,9,7,30,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-435-300,10-09-2012,Small Market,West,Utah,881,99,59,40,11,37,22,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-603-696,10-11-2012,Small Market,East,New Hampshire,447,114,69,45,14,-2,45,Beans,Coffee,Colombian,Regular
+BCC1-775-840,10/14/2012,Small Market,West,Nevada,240,77,43,34,12,-2,45,Beans,Coffee,Colombian,Regular
+LHC2-573-511,10/16/2012,Small Market,Central,Missouri,320,109,64,45,41,-6,70,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-262-397,10/17/2012,Small Market,Central,Wisconsin,851,118,70,48,13,45,25,Leaves,Herbal Tea,Lemon,Decaf
+LHC2-801-122,10/18/2012,Small Market,West,Utah,310,120,71,49,15,33,38,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-425-878,10/19/2012,Small Market,West,Washington,829,119,71,48,13,47,24,Leaves,Herbal Tea,Lemon,Decaf
+LTE1-971-849,10/21/2012,Small Market,West,Oregon,788,205,123,82,27,64,59,Leaves,Tea,Earl Grey,Regular
+LTG1-971-373,10/22/2012,Small Market,West,Oregon,656,218,127,91,28,76,51,Leaves,Tea,Green Tea,Regular
+BCD2-915-833,10/23/2012,Major Market,South,Texas,536,92,52,40,13,26,26,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-210-136,10/24/2012,Major Market,South,Texas,589,123,73,50,14,48,25,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-774-331,10/26/2012,Major Market,East,Massachusetts,554,120,68,52,47,-8,76,Beans,Espresso,Caffe Latte,Regular
+LHL2-936-217,10/28/2012,Major Market,South,Texas,424,114,68,46,14,31,37,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-719-985,10/29/2012,Major Market,Central,Colorado,410,124,69,55,20,15,54,Leaves,Tea,Darjeeling,Regular
+LTD1-847-299,10/30/2012,Major Market,Central,Illinois,589,123,73,50,14,48,25,Leaves,Tea,Darjeeling,Regular
+LTE1-719-332,10/31/2012,Major Market,Central,Colorado,1042,125,68,57,17,29,39,Leaves,Tea,Earl Grey,Regular
+LTD1-339-832,11-01-2012,Major Market,East,Massachusetts,862,88,52,36,10,31,21,Leaves,Tea,Darjeeling,Regular
+BED2-314-278,11-02-2012,Small Market,Central,Missouri,836,81,48,33,9,4,21,Beans,Espresso,Decaf Espresso,Decaf
+BCD2-504-957,11-03-2012,Small Market,South,Louisiana,856,78,47,31,8,28,19,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-225-723,11-05-2012,Small Market,South,Louisiana,454,120,71,49,15,34,37,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-262-671,11-06-2012,Small Market,Central,Wisconsin,391,121,67,54,20,14,53,Beans,Coffee,Amaretto,Regular
+BCA1-603-942,11-07-2012,Small Market,East,New Hampshire,316,113,67,46,14,30,37,Beans,Coffee,Amaretto,Regular
+BEC1-603-978,11-09-2012,Small Market,East,New Hampshire,325,106,62,44,40,-8,70,Beans,Espresso,Caffe Latte,Regular
+BEC1-425-456,11-11-2012,Small Market,West,Washington,391,121,67,54,20,-27,54,Beans,Espresso,Caffe Latte,Regular
+LHC2-918-295,11-12-2012,Small Market,South,Oklahoma,391,121,67,54,20,-27,54,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-801-307,11/13/2012,Small Market,West,Utah,316,113,67,46,14,30,37,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-435-382,11/14/2012,Small Market,West,Utah,452,109,66,43,14,20,46,Leaves,Herbal Tea,Lemon,Decaf
+LTG1-203-983,11/16/2012,Small Market,East,Connecticut,809,90,54,36,10,33,21,Leaves,Tea,Green Tea,Regular
+LTG1-206-777,11/17/2012,Small Market,West,Washington,613,147,86,61,55,1,85,Leaves,Tea,Green Tea,Regular
+BCD2-682-707,11/18/2012,Major Market,South,Texas,531,99,56,43,14,30,26,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-214-202,11/19/2012,Major Market,South,Texas,601,133,79,54,15,52,27,Beans,Espresso,Decaf Espresso,Decaf
+LHL2-970-522,11/20/2012,Major Market,Central,Colorado,521,112,65,47,42,-6,71,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-303-173,11/21/2012,Major Market,Central,Colorado,424,127,73,54,17,29,44,Leaves,Herbal Tea,Mint,Decaf
+LHL2-954-907,11/22/2012,Major Market,East,Florida,403,145,80,65,24,-17,57,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-561-442,11/23/2012,Major Market,East,Florida,1079,176,96,80,24,50,46,Leaves,Herbal Tea,Mint,Decaf
+LHL2-214-382,11/25/2012,Major Market,South,Texas,435,101,60,41,13,24,36,Leaves,Herbal Tea,Lemon,Decaf
+LTE1-619-159,11/26/2012,Major Market,West,California,601,133,79,54,15,53,26,Leaves,Tea,Earl Grey,Regular
+BED2-314-510,11/27/2012,Small Market,Central,Missouri,844,77,46,31,8,27,19,Beans,Espresso,Decaf Espresso,Decaf
+BCD2-225-867,11/28/2012,Small Market,South,Louisiana,863,85,51,34,9,31,20,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-580-374,11/29/2012,Small Market,South,Oklahoma,870,82,49,33,9,28,21,Beans,Coffee,Decaf Irish Cream,Decaf
+BEC1-505-447,12-02-2012,Small Market,South,New Mexico,335,118,69,49,44,-5,74,Beans,Espresso,Caffe Latte,Regular
+BCC1-775-583,12-03-2012,Small Market,West,Nevada,250,88,49,39,14,1,48,Beans,Coffee,Colombian,Regular
+LHC2-417-238,12-04-2012,Small Market,Central,Missouri,335,118,69,49,44,-5,74,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-920-225,12-05-2012,Small Market,Central,Wisconsin,320,107,66,41,12,30,36,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-573-253,12-06-2012,Small Market,Central,Missouri,1898,160,68,92,28,16,52,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-475-490,12-07-2012,Small Market,East,Connecticut,619,153,85,68,25,27,58,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-475-797,12-08-2012,Small Market,East,Connecticut,1075,139,76,63,19,36,40,Leaves,Herbal Tea,Mint,Decaf
+LHM2-435-849,12-09-2012,Small Market,West,Utah,1898,160,68,92,28,17,51,Leaves,Herbal Tea,Mint,Decaf
+LTE1-920-264,12-10-2012,Small Market,Central,Wisconsin,627,131,76,55,49,-3,79,Leaves,Tea,Earl Grey,Regular
+LHL2-720-243,12-11-2012,Major Market,Central,Colorado,503,130,71,51,46,-7,76,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-430-867,12/13/2012,Major Market,South,Texas,419,114,64,43,13,34,36,Leaves,Herbal Tea,Lemon,Decaf
+LTG1-510-530,12/15/2012,Major Market,West,California,650,194,110,72,23,83,54,Leaves,Tea,Green Tea,Regular
+BED2-563-658,12/16/2012,Small Market,Central,Iowa,430,46,43,0,0,46,12,Beans,Espresso,Decaf Espresso,Decaf
+BED2-203-604,12/17/2012,Small Market,East,Connecticut,375,118,64,47,15,31,43,Beans,Espresso,Decaf Espresso,Decaf
+BCD2-405-417,12/18/2012,Small Market,South,Oklahoma,859,70,39,27,7,31,18,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-435-814,12/20/2012,Small Market,West,Utah,881,106,59,40,11,55,22,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-603-341,12/21/2012,Small Market,East,New Hampshire,310,128,71,49,15,49,38,Beans,Coffee,Amaretto,Regular
+BCC1-603-141,12/22/2012,Small Market,East,New Hampshire,447,121,69,45,14,36,45,Beans,Coffee,Colombian,Regular
+BCC1-702-732,12/25/2012,Small Market,West,Nevada,240,82,43,34,12,-3,45,Beans,Coffee,Colombian,Regular
+LHC2-573-120,12/27/2012,Small Market,Central,Missouri,320,116,64,45,41,-9,70,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-262-869,12/28/2012,Small Market,Central,Wisconsin,851,126,70,48,13,67,25,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-509-439,12/30/2012,Small Market,West,Washington,829,127,71,48,13,70,24,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-475-984,12/31/2012,Small Market,East,Connecticut,881,106,59,40,11,53,23,Leaves,Tea,Darjeeling,Regular
+LTE1-503-959,01-01-2013,Small Market,West,Oregon,788,218,123,82,27,95,59,Leaves,Tea,Earl Grey,Regular
+LTG1-541-305,01-02-2013,Small Market,West,Oregon,656,232,127,91,28,176,51,Leaves,Tea,Green Tea,Regular
+BCD2-936-964,01-03-2013,Major Market,South,Texas,536,98,52,40,13,39,26,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-254-358,01-04-2013,Major Market,South,Texas,589,131,73,50,14,71,25,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-339-791,01-06-2013,Major Market,East,Massachusetts,554,128,68,52,47,-12,76,Beans,Espresso,Caffe Latte,Regular
+LHM2-561-303,01-07-2013,Major Market,East,Florida,1063,175,89,75,23,65,45,Leaves,Herbal Tea,Mint,Decaf
+LHL2-806-332,01-08-2013,Major Market,South,Texas,424,121,68,46,14,46,37,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-719-789,01-09-2013,Major Market,Central,Colorado,410,132,69,55,20,22,54,Leaves,Tea,Darjeeling,Regular
+LTD1-351-169,01-12-2013,Major Market,East,Massachusetts,862,94,52,36,10,46,21,Leaves,Tea,Darjeeling,Regular
+BED2-636-315,01/13/2013,Small Market,Central,Missouri,836,86,48,33,9,-60,21,Beans,Espresso,Decaf Espresso,Decaf
+BCD2-504-665,01/14/2013,Small Market,South,Louisiana,856,83,47,31,8,42,19,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-580-938,01/15/2013,Small Market,South,Oklahoma,862,94,52,36,10,-35,22,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-337-886,01/16/2013,Small Market,South,Louisiana,454,128,71,49,15,50,37,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-262-592,01/17/2013,Small Market,Central,Wisconsin,391,129,67,54,20,21,53,Beans,Coffee,Amaretto,Regular
+BCA1-603-436,01/18/2013,Small Market,East,New Hampshire,316,120,67,46,14,50,37,Beans,Coffee,Amaretto,Regular
+BCC1-603-358,01/19/2013,Small Market,East,New Hampshire,452,116,66,43,14,30,46,Beans,Coffee,Colombian,Regular
+BEC1-603-303,01/20/2013,Small Market,East,New Hampshire,325,113,62,44,40,-12,70,Beans,Espresso,Caffe Latte,Regular
+BEC1-318-269,01/21/2013,Small Market,South,Louisiana,321,150,88,53,16,73,39,Beans,Espresso,Caffe Latte,Regular
+BEC1-206-709,01/22/2013,Small Market,West,Washington,391,129,67,54,20,19,54,Beans,Espresso,Caffe Latte,Regular
+LHC2-580-762,01/23/2013,Small Market,South,Oklahoma,391,129,67,54,20,19,54,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-435-643,01/24/2013,Small Market,West,Utah,316,120,67,46,14,45,37,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-435-409,01/25/2013,Small Market,West,Utah,452,116,66,43,14,30,46,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-253-816,01/26/2013,Small Market,West,Washington,834,123,68,47,13,65,24,Leaves,Herbal Tea,Lemon,Decaf
+LTG1-203-239,01/27/2013,Small Market,East,Connecticut,809,96,54,36,10,49,21,Leaves,Tea,Green Tea,Regular
+LTG1-509-939,01/28/2013,Small Market,West,Washington,613,157,86,61,55,1,85,Leaves,Tea,Green Tea,Regular
+BED2-430-796,01/30/2013,Major Market,South,Texas,601,142,79,54,15,77,27,Beans,Espresso,Decaf Espresso,Decaf
+LHM2-970-435,02-01-2013,Major Market,Central,Colorado,424,135,73,54,17,43,44,Leaves,Herbal Tea,Mint,Decaf
+LHL2-305-101,02-02-2013,Major Market,East,Florida,403,155,80,65,24,48,57,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-407-949,02-03-2013,Major Market,East,Florida,1079,188,96,80,24,74,46,Leaves,Herbal Tea,Mint,Decaf
+LHC2-325-816,02-04-2013,Major Market,South,Texas,424,135,73,54,17,42,45,Leaves,Herbal Tea,Chamomile,Decaf
+LTE1-408-662,02-06-2013,Major Market,West,California,601,142,79,54,15,79,26,Leaves,Tea,Earl Grey,Regular
+BCD2-337-876,02-08-2013,Small Market,South,Louisiana,863,91,51,34,9,46,20,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-918-530,02-09-2013,Small Market,South,Oklahoma,870,87,49,33,9,34,21,Beans,Coffee,Decaf Irish Cream,Decaf
+BEC1-505-747,02-12-2013,Small Market,South,New Mexico,335,126,69,49,44,-7,74,Beans,Espresso,Caffe Latte,Regular
+LHC2-314-741,02/14/2013,Small Market,Central,Missouri,335,126,69,49,44,-7,74,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-920-119,02/15/2013,Small Market,Central,Wisconsin,320,114,66,41,12,45,36,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-860-409,02/17/2013,Small Market,East,Connecticut,619,163,85,68,25,40,58,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-203-403,02/18/2013,Small Market,East,Connecticut,1075,148,76,63,19,66,40,Leaves,Herbal Tea,Mint,Decaf
+LHM2-435-904,02/19/2013,Small Market,West,Utah,1898,171,68,92,28,25,51,Leaves,Herbal Tea,Mint,Decaf
+BCC1-719-216,02/21/2013,Major Market,Central,Colorado,541,90,51,39,12,27,24,Beans,Coffee,Colombian,Regular
+LHM2-305-443,02/22/2013,Major Market,East,Florida,1055,174,94,80,24,48,46,Leaves,Herbal Tea,Mint,Decaf
+LTD1-303-410,02/23/2013,Major Market,Central,Colorado,404,120,66,54,20,-4,53,Leaves,Tea,Darjeeling,Regular
+LTE1-303-778,02/24/2013,Major Market,Central,Colorado,1037,118,64,54,16,27,37,Leaves,Tea,Earl Grey,Regular
+LTE1-209-955,02/26/2013,Major Market,West,California,580,187,111,76,21,79,32,Leaves,Tea,Earl Grey,Regular
+BED2-715-709,02/27/2013,Small Market,Central,Wisconsin,573,51,29,22,7,10,19,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-319-952,02/28/2013,Small Market,Central,Iowa,800,58,35,23,6,18,17,Beans,Espresso,Caffe Latte,Regular
+LHM2-860-204,03-02-2013,Small Market,East,Connecticut,1053,142,77,65,20,35,42,Leaves,Herbal Tea,Mint,Decaf
+LTD1-262-478,03-03-2013,Small Market,Central,Wisconsin,449,113,67,46,14,30,37,Leaves,Tea,Darjeeling,Regular
+LHL2-773-353,03-06-2013,Major Market,Central,Illinois,536,92,52,40,13,27,25,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-614-327,03-07-2013,Major Market,Central,Ohio,862,88,52,36,10,30,22,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-617-742,03-08-2013,Major Market,East,Massachusetts,410,124,69,55,20,15,54,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-707-703,03-09-2013,Major Market,West,California,536,92,52,40,13,27,25,Leaves,Herbal Tea,Mint,Decaf
+LTD1-352-424,03-10-2013,Major Market,East,Florida,875,70,42,28,7,23,19,Leaves,Tea,Darjeeling,Regular
+LTG1-561-173,03-11-2013,Major Market,East,Florida,856,78,47,31,8,28,19,Leaves,Tea,Green Tea,Regular
+BED2-712-336,03/14/2013,Small Market,Central,Iowa,387,43,43,0,0,31,12,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-515-207,03/16/2013,Small Market,Central,Iowa,802,56,34,22,6,16,18,Beans,Espresso,Caffe Latte,Regular
+BEC1-505-176,03/17/2013,Small Market,South,New Mexico,325,106,62,44,40,-7,69,Beans,Espresso,Caffe Latte,Regular
+BCC1-775-514,03/18/2013,Small Market,West,Nevada,243,74,41,33,12,-4,45,Beans,Coffee,Colombian,Regular
+LHC2-573-850,03/19/2013,Small Market,Central,Missouri,325,106,62,44,40,-8,70,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-475-211,03/21/2013,Small Market,East,Connecticut,1060,150,81,69,21,38,43,Leaves,Herbal Tea,Mint,Decaf
+LTD1-262-201,03/22/2013,Small Market,Central,Wisconsin,454,120,71,49,15,33,38,Leaves,Tea,Darjeeling,Regular
+LTE1-206-435,03/23/2013,Small Market,West,Washington,454,120,71,49,15,34,37,Leaves,Tea,Earl Grey,Regular
+BCC1-970-920,03/24/2013,Major Market,Central,Colorado,531,99,56,43,14,29,27,Beans,Coffee,Colombian,Regular
+LHL2-773-887,03/27/2013,Major Market,Central,Illinois,531,99,56,43,14,-31,27,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-805-849,03/28/2013,Major Market,West,California,531,99,56,43,14,29,27,Leaves,Herbal Tea,Mint,Decaf
+LTD1-303-822,03/29/2013,Major Market,Central,Colorado,422,103,57,46,17,-14,51,Leaves,Tea,Darjeeling,Regular
+LTE1-303-240,03/30/2013,Major Market,Central,Colorado,1054,116,63,53,16,26,37,Leaves,Tea,Earl Grey,Regular
+LTG1-863-631,04-01-2013,Major Market,East,Florida,863,85,51,34,9,30,21,Leaves,Tea,Green Tea,Regular
+BED2-225-532,04-03-2013,Small Market,South,Louisiana,466,106,63,43,13,27,36,Beans,Espresso,Decaf Espresso,Decaf
+BCD2-702-803,04-04-2013,Small Market,West,Nevada,1009,69,38,31,9,8,30,Beans,Coffee,Decaf Irish Cream,Decaf
+BEC1-515-227,04-05-2013,Small Market,Central,Iowa,807,58,35,23,6,17,18,Beans,Espresso,Caffe Latte,Regular
+LTG1-959-857,04-09-2013,Small Market,East,Connecticut,818,82,49,33,9,-52,21,Leaves,Tea,Green Tea,Regular
+LTG1-360-576,04-11-2013,Small Market,West,Washington,627,131,76,55,49,-3,79,Leaves,Tea,Green Tea,Regular
+LTE1-970-836,04/15/2013,Major Market,Central,Colorado,1037,126,64,54,16,-40,37,Leaves,Tea,Earl Grey,Regular
+LTD1-978-890,04/16/2013,Major Market,East,Massachusetts,859,70,39,27,7,30,19,Leaves,Tea,Darjeeling,Regular
+BEC1-641-176,04/19/2013,Small Market,Central,Iowa,800,62,35,23,6,27,17,Beans,Espresso,Caffe Latte,Regular
+LHL2-203-418,04/20/2013,Small Market,East,Connecticut,593,189,98,79,30,50,64,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-203-606,04/21/2013,Small Market,East,Connecticut,1053,151,77,65,20,-48,42,Leaves,Herbal Tea,Mint,Decaf
+LTD1-262-214,04/22/2013,Small Market,Central,Wisconsin,449,120,67,46,14,45,37,Leaves,Tea,Darjeeling,Regular
+LTE1-262-128,04/23/2013,Small Market,Central,Wisconsin,606,153,84,60,54,0,84,Leaves,Tea,Earl Grey,Regular
+LHL2-419-201,04/26/2013,Major Market,Central,Ohio,862,94,52,36,10,45,22,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-352-943,04/29/2013,Major Market,East,Florida,875,75,42,28,7,28,19,Leaves,Tea,Darjeeling,Regular
+LTG1-904-217,04/30/2013,Major Market,East,Florida,856,83,47,31,8,42,19,Leaves,Tea,Green Tea,Regular
+BCD2-505-481,05-04-2013,Small Market,South,New Mexico,1804,130,40,82,25,-12,48,Beans,Coffee,Decaf Irish Cream,Decaf
+BEC1-515-765,05-05-2013,Small Market,Central,Iowa,802,60,34,22,6,24,18,Beans,Espresso,Caffe Latte,Regular
+BCC1-775-738,05-07-2013,Small Market,West,Nevada,243,79,41,33,12,-6,45,Beans,Coffee,Colombian,Regular
+LHC2-314-428,05-08-2013,Small Market,Central,Missouri,325,113,62,44,40,-12,70,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-715-472,05-09-2013,Small Market,Central,Wisconsin,856,83,47,31,8,40,20,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-959-406,05-10-2013,Small Market,East,Connecticut,1060,160,81,69,21,-4,43,Leaves,Herbal Tea,Mint,Decaf
+LTD1-715-245,05-11-2013,Small Market,Central,Wisconsin,454,128,71,49,15,49,38,Leaves,Tea,Darjeeling,Regular
+BCC1-970-229,05/13/2013,Major Market,Central,Colorado,531,106,56,43,14,43,27,Beans,Coffee,Colombian,Regular
+BCC1-330-859,05/14/2013,Major Market,Central,Ohio,435,108,60,41,13,52,36,Beans,Coffee,Colombian,Regular
+BEC1-978-610,05/15/2013,Major Market,East,Massachusetts,571,106,52,47,42,-30,72,Beans,Espresso,Caffe Latte,Regular
+LHL2-312-188,05/16/2013,Major Market,Central,Illinois,531,106,56,43,14,-17,27,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-323-783,05/17/2013,Major Market,West,California,531,106,56,43,14,43,27,Leaves,Herbal Tea,Mint,Decaf
+LTD1-303-619,05/18/2013,Major Market,Central,Colorado,422,110,57,46,17,9,51,Leaves,Tea,Darjeeling,Regular
+LTE1-970-511,05/19/2013,Major Market,Central,Colorado,1054,124,63,53,16,39,37,Leaves,Tea,Earl Grey,Regular
+LTD1-978-120,05/20/2013,Major Market,East,Massachusetts,870,87,49,33,9,43,20,Leaves,Tea,Darjeeling,Regular
+BED2-563-619,05/22/2013,Small Market,Central,Iowa,344,46,43,0,0,47,11,Beans,Espresso,Decaf Espresso,Decaf
+BED2-318-893,05/23/2013,Small Market,South,Louisiana,466,113,63,43,13,40,36,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-515-720,05/25/2013,Small Market,Central,Iowa,807,62,35,23,6,25,18,Beans,Espresso,Caffe Latte,Regular
+BEC1-225-151,05/26/2013,Small Market,South,Louisiana,320,114,66,41,12,46,35,Beans,Espresso,Caffe Latte,Regular
+LTG1-959-573,05/29/2013,Small Market,East,Connecticut,818,87,49,33,9,42,21,Leaves,Tea,Green Tea,Regular
+LTD1-435-488,05/30/2013,Small Market,West,Utah,335,126,69,49,44,-6,73,Leaves,Tea,Darjeeling,Regular
+LHL2-630-468,06-01-2013,Major Market,Central,Illinois,541,90,51,39,12,27,24,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-209-275,06-02-2013,Major Market,West,California,541,90,51,39,12,26,25,Leaves,Herbal Tea,Mint,Decaf
+BCC1-515-213,06-05-2013,Small Market,Central,Iowa,1000,68,37,31,9,7,30,Beans,Coffee,Colombian,Regular
+BEC1-505-597,06-06-2013,Small Market,South,New Mexico,320,109,64,45,41,-6,70,Beans,Espresso,Caffe Latte,Regular
+LTG1-959-211,06-10-2013,Small Market,East,Connecticut,806,60,36,24,6,18,18,Leaves,Tea,Green Tea,Regular
+LTG1-603-446,06-11-2013,Small Market,East,New Hampshire,430,43,43,0,0,-48,11,Leaves,Tea,Green Tea,Regular
+LTD1-801-371,06-12-2013,Small Market,West,Utah,320,109,64,45,41,-6,70,Leaves,Tea,Darjeeling,Regular
+LTG1-206-103,06/13/2013,Small Market,West,Washington,606,144,84,60,54,0,84,Leaves,Tea,Green Tea,Regular
+LHC2-937-543,06/14/2013,Major Market,Central,Ohio,482,80,48,32,8,29,19,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-407-204,06/15/2013,Major Market,East,Florida,391,121,67,54,20,13,54,Leaves,Herbal Tea,Lemon,Decaf
+BED2-505-338,06/17/2013,Small Market,South,New Mexico,248,82,47,35,11,8,39,Beans,Espresso,Decaf Espresso,Decaf
+BCD2-775-869,06/18/2013,Small Market,West,Nevada,1003,64,35,29,8,-35,30,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-563-490,06/19/2013,Small Market,Central,Iowa,1003,64,35,29,8,5,30,Beans,Coffee,Colombian,Regular
+BER1-603-882,06/20/2013,Small Market,East,New Hampshire,211,76,42,34,12,-3,45,Beans,Espresso,Regular Espresso,Regular
+BEC1-918-432,06/21/2013,Small Market,South,Oklahoma,482,80,48,32,8,29,19,Beans,Espresso,Caffe Latte,Regular
+LHM2-801-821,06/25/2013,Small Market,West,Utah,1804,122,40,82,25,-8,48,Leaves,Herbal Tea,Mint,Decaf
+LTE1-636-672,06/27/2013,Small Market,Central,Missouri,211,76,42,34,12,-3,45,Leaves,Tea,Earl Grey,Regular
+LTD1-435-941,06/30/2013,Small Market,West,Utah,325,106,62,44,40,-7,69,Leaves,Tea,Darjeeling,Regular
+LHL2-330-270,07-02-2013,Major Market,Central,Ohio,870,82,49,33,9,29,20,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-508-801,07-03-2013,Major Market,East,Massachusetts,422,103,57,46,17,7,50,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-813-232,07-04-2013,Major Market,East,Florida,882,75,45,30,8,26,19,Leaves,Tea,Darjeeling,Regular
+BED2-262-377,07-06-2013,Small Market,Central,Wisconsin,567,56,32,24,7,-4,19,Beans,Espresso,Decaf Espresso,Decaf
+LHL2-715-378,07-09-2013,Small Market,Central,Wisconsin,863,85,51,34,9,30,21,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-505-241,07-11-2013,Small Market,South,New Mexico,1009,69,38,31,9,7,31,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-573-187,07-12-2013,Small Market,Central,Missouri,256,89,51,38,12,11,40,Leaves,Tea,Darjeeling,Regular
+LTG1-636-613,07/13/2013,Small Market,Central,Missouri,250,88,49,39,14,2,47,Leaves,Tea,Green Tea,Regular
+LTD1-509-232,07/15/2013,Small Market,West,Washington,320,107,66,41,12,30,36,Leaves,Tea,Darjeeling,Regular
+LTE1-801-732,07/16/2013,Small Market,West,Utah,256,89,51,38,12,12,39,Leaves,Tea,Earl Grey,Regular
+LHM2-530-649,07/19/2013,Major Market,West,California,541,96,51,39,12,39,25,Leaves,Herbal Tea,Mint,Decaf
+BCD2-505-945,07/20/2013,Small Market,South,New Mexico,1698,116,23,86,26,-88,49,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-318-162,07/21/2013,Small Market,South,Louisiana,449,120,67,46,14,45,37,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-505-267,07/23/2013,Small Market,South,New Mexico,320,116,64,45,41,-29,70,Beans,Espresso,Caffe Latte,Regular
+LHL2-505-809,07/25/2013,Small Market,South,New Mexico,1000,72,37,31,9,9,31,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-314-237,07/26/2013,Small Market,Central,Missouri,244,98,53,39,12,19,40,Leaves,Tea,Darjeeling,Regular
+LTG1-203-548,07/27/2013,Small Market,East,Connecticut,806,64,36,24,6,27,18,Leaves,Tea,Green Tea,Regular
+LTG1-603-104,07/28/2013,Small Market,East,New Hampshire,430,46,43,0,0,47,11,Leaves,Tea,Green Tea,Regular
+LTD1-435-265,07/29/2013,Small Market,West,Utah,320,116,64,45,41,-9,70,Leaves,Tea,Darjeeling,Regular
+LTG1-206-373,07/30/2013,Small Market,West,Washington,606,153,84,60,54,0,84,Leaves,Tea,Green Tea,Regular
+LHC2-440-300,07/31/2013,Major Market,Central,Ohio,482,85,48,32,8,43,19,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-561-943,08-01-2013,Major Market,East,Florida,391,129,67,54,20,19,54,Leaves,Herbal Tea,Lemon,Decaf
+BED2-920-980,08-02-2013,Small Market,Central,Wisconsin,570,55,30,22,7,2,19,Beans,Espresso,Decaf Espresso,Decaf
+BED2-505-314,08-03-2013,Small Market,South,New Mexico,248,87,47,35,11,4,39,Beans,Espresso,Decaf Espresso,Decaf
+BCD2-702-983,08-04-2013,Small Market,West,Nevada,1003,68,35,29,8,7,30,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-515-666,08-05-2013,Small Market,Central,Iowa,1003,68,35,29,8,7,30,Beans,Coffee,Colombian,Regular
+BER1-603-309,08-06-2013,Small Market,East,New Hampshire,211,81,42,34,12,-8,45,Beans,Espresso,Regular Espresso,Regular
+LHL2-314-496,08-10-2013,Small Market,Central,Missouri,1804,130,40,82,25,-13,49,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-435-753,08-11-2013,Small Market,West,Utah,1804,130,40,82,25,-12,48,Leaves,Herbal Tea,Mint,Decaf
+LTD1-636-489,08-12-2013,Small Market,Central,Missouri,248,87,47,35,11,13,38,Leaves,Tea,Darjeeling,Regular
+LTE1-573-172,08/13/2013,Small Market,Central,Missouri,211,81,42,34,12,-4,45,Leaves,Tea,Earl Grey,Regular
+LTG1-314-259,08/14/2013,Small Market,Central,Missouri,243,79,41,33,12,-6,45,Leaves,Tea,Green Tea,Regular
+LHC2-614-597,08/17/2013,Major Market,Central,Ohio,490,78,44,29,8,37,19,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-440-147,08/18/2013,Major Market,Central,Ohio,870,87,49,33,9,43,20,Leaves,Herbal Tea,Lemon,Decaf
+LTG1-774-557,08/21/2013,Major Market,East,Massachusetts,490,78,44,29,8,-23,19,Leaves,Tea,Green Tea,Regular
+BED2-608-283,08/22/2013,Small Market,Central,Wisconsin,567,60,32,24,7,19,19,Beans,Espresso,Decaf Espresso,Decaf
+LHL2-603-882,08/26/2013,Small Market,East,New Hampshire,250,94,49,39,14,3,47,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-505-101,08/27/2013,Small Market,South,New Mexico,1009,74,38,31,9,10,31,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-314-962,08/28/2013,Small Market,Central,Missouri,256,95,51,38,12,16,40,Leaves,Tea,Darjeeling,Regular
+LTG1-660-304,08/29/2013,Small Market,Central,Missouri,250,94,49,39,14,3,47,Leaves,Tea,Green Tea,Regular
+LTG1-603-663,08/30/2013,Small Market,East,New Hampshire,344,46,43,0,0,-13,11,Leaves,Tea,Green Tea,Regular
+LTE1-435-445,09-01-2013,Small Market,West,Utah,256,95,51,38,12,18,39,Leaves,Tea,Earl Grey,Regular
+BCD2-216-753,09-03-2013,Major Market,Central,Ohio,503,122,71,51,46,-5,76,Beans,Coffee,Decaf Irish Cream,Decaf
+BEC1-774-904,09-06-2013,Major Market,East,Massachusetts,542,116,65,51,46,-52,76,Beans,Espresso,Caffe Latte,Regular
+LTG1-863-748,09-08-2013,Major Market,East,Florida,851,118,70,48,13,-74,24,Leaves,Tea,Green Tea,Regular
+BEC1-253-979,09-11-2013,Small Market,West,Washington,385,126,70,56,21,16,54,Beans,Espresso,Caffe Latte,Regular
+BCC1-614-402,09/15/2013,Major Market,Central,Ohio,424,114,68,46,14,32,36,Beans,Coffee,Colombian,Regular
+LHM2-720-895,09/17/2013,Major Market,Central,Colorado,411,138,79,59,19,32,47,Leaves,Herbal Tea,Mint,Decaf
+LHC2-713-584,09/18/2013,Major Market,South,Texas,411,138,79,59,19,32,47,Leaves,Herbal Tea,Chamomile,Decaf
+BED2-860-670,09/20/2013,Small Market,East,Connecticut,380,124,71,53,17,-54,45,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-505-609,09/22/2013,Small Market,South,New Mexico,452,109,66,43,14,20,46,Beans,Coffee,Colombian,Regular
+LHL2-860-931,09/25/2013,Small Market,East,Connecticut,601,184,102,82,31,38,64,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-425-141,09/27/2013,Small Market,West,Washington,321,141,88,53,16,-51,39,Leaves,Tea,Darjeeling,Regular
+BCD2-419-133,09/28/2013,Major Market,Central,Ohio,521,112,65,47,42,-6,71,Beans,Coffee,Decaf Irish Cream,Decaf
+LTD1-309-454,10-01-2013,Major Market,Central,Illinois,601,133,79,54,15,53,26,Leaves,Tea,Darjeeling,Regular
+BCD2-816-570,10-02-2013,Small Market,Central,Missouri,1075,139,76,63,19,36,40,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-959-473,10-03-2013,Small Market,East,Connecticut,392,114,65,49,16,21,44,Beans,Espresso,Decaf Espresso,Decaf
+BED2-435-337,10-04-2013,Small Market,West,Utah,898,123,73,50,14,47,26,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-603-395,10-05-2013,Small Market,East,New Hampshire,327,127,75,52,16,37,38,Beans,Coffee,Amaretto,Regular
+BEC1-603-713,10-07-2013,Small Market,East,New Hampshire,335,118,69,49,44,-4,73,Beans,Espresso,Caffe Latte,Regular
+BCC1-503-972,10-08-2013,Small Market,West,Oregon,482,98,57,41,13,1,56,Beans,Coffee,Colombian,Regular
+BEC1-503-162,10-09-2013,Small Market,West,Oregon,424,127,73,54,17,28,45,Beans,Espresso,Caffe Latte,Regular
+LHC2-435-625,10-11-2013,Small Market,West,Utah,327,127,75,52,16,36,39,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-801-884,10-12-2013,Small Market,West,Utah,462,122,74,48,15,28,46,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-425-443,10/13/2013,Small Market,West,Washington,845,120,71,49,13,46,25,Leaves,Herbal Tea,Lemon,Decaf
+BCD2-234-964,10/15/2013,Major Market,Central,Ohio,503,130,71,51,46,-7,76,Beans,Coffee,Decaf Irish Cream,Decaf
+BCA1-614-565,10/16/2013,Major Market,Central,Ohio,405,131,71,52,17,39,45,Beans,Coffee,Amaretto,Regular
+BCC1-937-466,10/17/2013,Major Market,Central,Ohio,419,114,64,43,13,42,36,Beans,Coffee,Colombian,Regular
+BEC1-774-258,10/18/2013,Major Market,East,Massachusetts,542,124,65,51,46,-16,76,Beans,Espresso,Caffe Latte,Regular
+LTG1-772-265,10/20/2013,Major Market,East,Florida,851,126,70,48,13,68,24,Leaves,Tea,Green Tea,Regular
+BEC1-225-193,10/21/2013,Small Market,South,Louisiana,329,169,99,60,18,86,41,Beans,Espresso,Caffe Latte,Regular
+LHC2-580-746,10/24/2013,Small Market,South,Oklahoma,385,134,70,56,21,24,54,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-435-800,10/25/2013,Small Market,West,Utah,447,121,69,45,14,34,46,Leaves,Herbal Tea,Lemon,Decaf
+BCC1-234-244,10/27/2013,Major Market,Central,Ohio,424,121,68,46,14,47,36,Beans,Coffee,Colombian,Regular
+LHL2-970-467,10/28/2013,Major Market,Central,Colorado,509,133,73,52,47,-6,77,Leaves,Herbal Tea,Lemon,Decaf
+LHC2-936-291,10/30/2013,Major Market,South,Texas,411,147,79,59,19,47,47,Leaves,Herbal Tea,Chamomile,Decaf
+LTG1-914-628,10/31/2013,Major Market,East,New York,589,131,73,50,14,70,26,Leaves,Tea,Green Tea,Regular
+BED2-203-656,11-01-2013,Small Market,East,Connecticut,380,132,71,53,17,39,45,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-505-504,11-03-2013,Small Market,South,New Mexico,452,116,66,43,14,30,46,Beans,Coffee,Colombian,Regular
+LHL2-475-748,11-06-2013,Small Market,East,Connecticut,601,196,102,82,31,56,64,Leaves,Herbal Tea,Lemon,Decaf
+LTE1-715-698,11-07-2013,Small Market,Central,Wisconsin,613,157,86,61,55,3,84,Leaves,Tea,Earl Grey,Regular
+LTD1-509-811,11-08-2013,Small Market,West,Washington,321,150,88,53,16,73,39,Leaves,Tea,Darjeeling,Regular
+BCD2-513-887,11-09-2013,Major Market,Central,Ohio,521,119,65,47,42,-9,71,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-636-724,11/13/2013,Small Market,Central,Missouri,1075,148,76,63,19,53,40,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-203-143,11/14/2013,Small Market,East,Connecticut,392,121,65,49,16,31,44,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-603-468,11/16/2013,Small Market,East,New Hampshire,327,135,75,52,16,55,38,Beans,Coffee,Amaretto,Regular
+BEC1-203-791,11/17/2013,Small Market,East,Connecticut,627,140,76,55,49,-3,78,Beans,Espresso,Caffe Latte,Regular
+BEC1-603-662,11/18/2013,Small Market,East,New Hampshire,335,126,69,49,44,-6,73,Beans,Espresso,Caffe Latte,Regular
+BCC1-541-126,11/19/2013,Small Market,West,Oregon,482,104,57,41,13,1,56,Beans,Coffee,Colombian,Regular
+BEC1-503-442,11/20/2013,Small Market,West,Oregon,424,135,73,54,17,42,45,Beans,Espresso,Caffe Latte,Regular
+LHC2-435-330,11/22/2013,Small Market,West,Utah,327,135,75,52,16,53,39,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-435-877,11/23/2013,Small Market,West,Utah,462,130,74,48,15,42,46,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-425-728,11/24/2013,Small Market,West,Washington,845,128,71,49,13,68,25,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-959-566,11/25/2013,Small Market,East,Connecticut,898,131,73,50,14,70,26,Leaves,Tea,Darjeeling,Regular
+LHL2-513-735,11/27/2013,Major Market,Central,Ohio,859,66,39,27,7,20,19,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-850-479,11/28/2013,Major Market,East,Florida,385,126,70,56,21,16,54,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-781-647,11/29/2013,Major Market,East,Massachusetts,404,120,66,54,20,13,53,Leaves,Herbal Tea,Lemon,Decaf
+LTG1-413-873,11/30/2013,Major Market,East,Massachusetts,480,53,32,21,5,15,17,Leaves,Tea,Green Tea,Regular
+BED2-505-496,12-01-2013,Small Market,South,New Mexico,244,92,53,39,12,14,39,Beans,Espresso,Decaf Espresso,Decaf
+BED2-702-485,12-02-2013,Small Market,West,Nevada,800,58,35,23,6,17,18,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-563-317,12-03-2013,Small Market,Central,Iowa,846,52,31,21,5,15,16,Beans,Coffee,Amaretto,Regular
+BEC1-405-125,12-05-2013,Small Market,South,Oklahoma,480,53,32,21,5,15,17,Beans,Espresso,Caffe Latte,Regular
+LHL2-603-455,12-07-2013,Small Market,East,New Hampshire,240,77,43,34,12,-3,46,Leaves,Herbal Tea,Lemon,Decaf
+LHC2-971-466,12-09-2013,Small Market,West,Oregon,820,61,36,25,7,17,19,Leaves,Herbal Tea,Chamomile,Decaf
+LTG1-314-155,12-10-2013,Small Market,Central,Missouri,240,77,43,34,12,-3,46,Leaves,Tea,Green Tea,Regular
+LTD1-603-185,12-11-2013,Small Market,East,New Hampshire,846,52,31,21,5,14,17,Leaves,Tea,Darjeeling,Regular
+LTE1-435-313,12-12-2013,Small Market,West,Utah,244,92,53,39,12,14,39,Leaves,Tea,Earl Grey,Regular
+LTE1-360-860,12/13/2013,Small Market,West,Washington,449,113,67,46,14,31,36,Leaves,Tea,Earl Grey,Regular
+LHL2-603-369,12/17/2013,Small Market,East,New Hampshire,243,74,41,33,12,-4,45,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-505-815,12/18/2013,Small Market,South,New Mexico,1003,64,35,29,8,5,30,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-603-970,12/20/2013,Small Market,East,New Hampshire,848,39,24,15,4,8,16,Leaves,Tea,Darjeeling,Regular
+LTD1-541-406,12/21/2013,Small Market,West,Oregon,482,80,48,32,8,28,20,Leaves,Tea,Darjeeling,Regular
+LTE1-435-321,12/22/2013,Small Market,West,Utah,248,82,47,35,11,9,38,Leaves,Tea,Earl Grey,Regular
+LTG1-801-396,12/23/2013,Small Market,West,Utah,211,76,42,34,12,-3,45,Leaves,Tea,Green Tea,Regular
+LHC2-772-201,12/24/2013,Major Market,East,Florida,567,56,32,24,7,12,20,Leaves,Herbal Tea,Chamomile,Decaf
+BED2-505-374,12/25/2013,Small Market,South,New Mexico,256,89,51,38,12,12,39,Beans,Espresso,Decaf Espresso,Decaf
+BED2-702-889,12/26/2013,Small Market,West,Nevada,807,58,35,23,6,17,18,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-641-152,12/27/2013,Small Market,Central,Iowa,851,41,25,16,4,10,15,Beans,Coffee,Amaretto,Regular
+BCC1-563-681,12/28/2013,Small Market,Central,Iowa,1009,69,38,31,9,8,30,Beans,Coffee,Colombian,Regular
+BER1-603-466,12/29/2013,Small Market,East,New Hampshire,218,45,25,20,7,-16,41,Beans,Espresso,Regular Espresso,Regular
+BEC1-580-861,12/30/2013,Small Market,South,Oklahoma,490,73,44,29,8,24,20,Beans,Espresso,Caffe Latte,Regular
+LHC2-541-887,01-01-2014,Small Market,West,Oregon,829,60,36,24,6,19,17,Leaves,Herbal Tea,Chamomile,Decaf
+LTD1-971-873,01-03-2014,Small Market,West,Oregon,490,73,44,29,8,25,19,Leaves,Tea,Darjeeling,Regular
+LHC2-937-849,01-04-2014,Major Market,Central,Ohio,480,56,32,21,5,24,16,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-339-822,01-07-2014,Major Market,East,Massachusetts,404,128,66,54,20,19,53,Leaves,Herbal Tea,Lemon,Decaf
+LTG1-781-297,01-08-2014,Major Market,East,Massachusetts,480,56,32,21,5,22,17,Leaves,Tea,Green Tea,Regular
+BED2-505-332,01-09-2014,Small Market,South,New Mexico,244,98,53,39,12,21,39,Beans,Espresso,Decaf Espresso,Decaf
+BED2-775-162,01-10-2014,Small Market,West,Nevada,800,62,35,23,6,25,18,Beans,Espresso,Decaf Espresso,Decaf
+BER1-603-363,01-12-2014,Small Market,East,New Hampshire,209,60,31,25,9,-18,43,Beans,Espresso,Regular Espresso,Regular
+BEC1-580-688,01/13/2014,Small Market,South,Oklahoma,480,56,32,21,5,22,17,Beans,Espresso,Caffe Latte,Regular
+LHL2-603-994,01/15/2014,Small Market,East,New Hampshire,240,82,43,34,12,-28,46,Leaves,Herbal Tea,Lemon,Decaf
+LHC2-971-782,01/17/2014,Small Market,West,Oregon,820,65,36,25,7,25,19,Leaves,Herbal Tea,Chamomile,Decaf
+LTG1-314-516,01/18/2014,Small Market,Central,Missouri,240,82,43,34,12,-4,46,Leaves,Tea,Green Tea,Regular
+LTD1-603-870,01/19/2014,Small Market,East,New Hampshire,846,55,31,21,5,21,17,Leaves,Tea,Darjeeling,Regular
+LTE1-509-372,01/21/2014,Small Market,West,Washington,449,120,67,46,14,46,36,Leaves,Tea,Earl Grey,Regular
+BED2-775-675,01/22/2014,Small Market,West,Nevada,802,60,34,22,6,25,17,Beans,Espresso,Decaf Espresso,Decaf
+LHL2-603-269,01/25/2014,Small Market,East,New Hampshire,243,79,41,33,12,-6,45,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-505-536,01/26/2014,Small Market,South,New Mexico,1003,68,35,29,8,7,30,Leaves,Herbal Tea,Lemon,Decaf
+LHC2-541-839,01/27/2014,Small Market,West,Oregon,823,67,38,25,7,28,19,Leaves,Herbal Tea,Chamomile,Decaf
+LTD1-603-836,01/28/2014,Small Market,East,New Hampshire,848,42,24,15,4,12,16,Leaves,Tea,Darjeeling,Regular
+LTD1-503-410,01/29/2014,Small Market,West,Oregon,482,85,48,32,8,42,20,Leaves,Tea,Darjeeling,Regular
+LTE1-435-749,01/30/2014,Small Market,West,Utah,248,87,47,35,11,16,38,Leaves,Tea,Earl Grey,Regular
+LTG1-435-530,01/31/2014,Small Market,West,Utah,211,81,42,34,12,-4,45,Leaves,Tea,Green Tea,Regular
+LHC2-904-815,02-01-2014,Major Market,East,Florida,567,60,32,24,7,18,20,Leaves,Herbal Tea,Chamomile,Decaf
+BED2-505-953,02-02-2014,Small Market,South,New Mexico,256,95,51,38,12,18,39,Beans,Espresso,Decaf Espresso,Decaf
+BED2-775-618,02-03-2014,Small Market,West,Nevada,807,62,35,23,6,25,18,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-563-737,02-04-2014,Small Market,Central,Iowa,851,44,25,16,4,15,15,Beans,Coffee,Amaretto,Regular
+BCC1-641-258,02-05-2014,Small Market,Central,Iowa,1009,74,38,31,9,12,30,Beans,Coffee,Colombian,Regular
+BER1-603-761,02-06-2014,Small Market,East,New Hampshire,218,48,25,20,7,-24,41,Beans,Espresso,Regular Espresso,Regular
+BEC1-580-816,02-07-2014,Small Market,South,Oklahoma,490,78,44,29,8,36,20,Beans,Espresso,Caffe Latte,Regular
+LHC2-503-738,02-09-2014,Small Market,West,Oregon,829,64,36,24,6,28,17,Leaves,Herbal Tea,Chamomile,Decaf
+LTD1-603-361,02-10-2014,Small Market,East,New Hampshire,851,44,25,16,4,15,15,Leaves,Tea,Darjeeling,Regular
+LTD1-541-639,02-11-2014,Small Market,West,Oregon,490,78,44,29,8,-23,19,Leaves,Tea,Darjeeling,Regular
+BED2-915-855,02-12-2014,Major Market,South,Texas,580,187,111,76,21,78,33,Beans,Espresso,Decaf Espresso,Decaf
+LHC2-713-357,02/13/2014,Major Market,South,Texas,405,123,71,52,17,26,45,Leaves,Herbal Tea,Chamomile,Decaf
+LTD1-217-115,02/14/2014,Major Market,Central,Illinois,580,187,111,76,21,78,33,Leaves,Tea,Darjeeling,Regular
+LTE1-847-977,02/15/2014,Major Market,Central,Illinois,650,182,110,72,23,-45,55,Leaves,Tea,Earl Grey,Regular
+BCD2-660-430,02/16/2014,Small Market,Central,Missouri,1053,142,77,65,20,35,42,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-660-953,02/17/2014,Small Market,Central,Missouri,833,79,47,32,8,28,19,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-715-338,02/19/2014,Small Market,Central,Wisconsin,385,126,70,56,21,15,55,Beans,Coffee,Amaretto,Regular
+BCA1-330-537,02/23/2014,Major Market,Central,Ohio,411,138,79,59,19,-67,46,Beans,Coffee,Amaretto,Regular
+LTG1-650-119,02/24/2014,Major Market,West,California,659,189,114,75,24,59,55,Leaves,Tea,Green Tea,Regular
+BCD2-314-492,02/25/2014,Small Market,Central,Missouri,1060,150,81,69,21,38,43,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-503-541,02/26/2014,Small Market,West,Oregon,424,114,68,46,14,32,36,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-206-499,02/27/2014,Small Market,West,Washington,1063,164,89,75,23,45,44,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-203-184,02/28/2014,Small Market,East,Connecticut,613,147,86,61,55,2,84,Beans,Espresso,Caffe Latte,Regular
+BCA1-541-527,03-02-2014,Small Market,West,Oregon,509,125,73,52,47,-4,77,Beans,Coffee,Amaretto,Regular
+BEC1-503-633,03-04-2014,Small Market,West,Oregon,411,138,79,59,19,33,46,Beans,Espresso,Caffe Latte,Regular
+LHC2-920-506,03-05-2014,Small Market,Central,Wisconsin,321,141,88,53,16,48,40,Leaves,Herbal Tea,Chamomile,Decaf
+LTD1-959-963,03-06-2014,Small Market,East,Connecticut,885,132,78,54,15,51,27,Leaves,Tea,Darjeeling,Regular
+BED2-740-655,03-07-2014,Major Market,Central,Ohio,422,103,57,46,17,6,51,Beans,Espresso,Decaf Espresso,Decaf
+LTG1-518-470,03-09-2014,Major Market,East,New York,601,133,79,54,15,52,27,Leaves,Tea,Green Tea,Regular
+LTG1-213-191,03-10-2014,Major Market,West,California,677,168,101,67,22,47,54,Leaves,Tea,Green Tea,Regular
+BCD2-503-658,03-11-2014,Small Market,West,Oregon,435,101,60,41,13,25,35,Beans,Coffee,Decaf Irish Cream,Decaf
+BCA1-715-743,03-12-2014,Small Market,Central,Wisconsin,403,145,80,65,24,22,58,Beans,Coffee,Amaretto,Regular
+BCA1-503-868,03/13/2014,Small Market,West,Oregon,521,112,65,47,42,-47,72,Beans,Coffee,Amaretto,Regular
+BCC1-801-744,03/14/2014,Small Market,West,Utah,392,114,65,49,16,21,44,Beans,Coffee,Colombian,Regular
+LHL2-985-538,03/16/2014,Small Market,South,Louisiana,619,153,85,68,25,26,59,Leaves,Herbal Tea,Lemon,Decaf
+BED2-432-338,03/17/2014,Major Market,South,Texas,580,199,111,76,21,152,33,Beans,Espresso,Decaf Espresso,Decaf
+LHC2-325-805,03/18/2014,Major Market,South,Texas,405,131,71,52,17,39,45,Leaves,Herbal Tea,Chamomile,Decaf
+LTE1-815-382,03/20/2014,Major Market,Central,Illinois,650,194,110,72,23,82,55,Leaves,Tea,Earl Grey,Regular
+BCA1-414-700,03/24/2014,Small Market,Central,Wisconsin,385,134,70,56,21,22,55,Beans,Coffee,Amaretto,Regular
+LHC2-715-456,03/26/2014,Small Market,Central,Wisconsin,329,169,99,60,18,85,42,Leaves,Herbal Tea,Chamomile,Decaf
+BED2-937-571,03/27/2014,Major Market,Central,Ohio,410,132,69,55,20,24,53,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-234-374,03/28/2014,Major Market,Central,Ohio,411,147,79,59,19,49,46,Beans,Coffee,Amaretto,Regular
+BCD2-417-263,03/30/2014,Small Market,Central,Missouri,1060,160,81,69,21,-24,43,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-503-718,03/31/2014,Small Market,West,Oregon,424,121,68,46,14,47,36,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-425-264,04-01-2014,Small Market,West,Washington,1063,175,89,75,23,-13,44,Beans,Espresso,Decaf Espresso,Decaf
+BEC1-475-696,04-02-2014,Small Market,East,Connecticut,613,157,86,61,55,3,84,Beans,Espresso,Caffe Latte,Regular
+BCC1-318-961,04-03-2014,Small Market,South,Louisiana,834,123,68,47,13,65,24,Beans,Coffee,Colombian,Regular
+BCC1-435-363,04-05-2014,Small Market,West,Utah,380,132,71,53,17,30,44,Beans,Coffee,Colombian,Regular
+BEC1-541-397,04-06-2014,Small Market,West,Oregon,411,147,79,59,19,49,46,Beans,Espresso,Caffe Latte,Regular
+LHC2-262-571,04-07-2014,Small Market,Central,Wisconsin,321,150,88,53,16,71,40,Leaves,Herbal Tea,Chamomile,Decaf
+LTD1-860-553,04-08-2014,Small Market,East,Connecticut,885,141,78,54,15,76,27,Leaves,Tea,Darjeeling,Regular
+BED2-419-662,04-09-2014,Major Market,Central,Ohio,422,110,57,46,17,9,51,Beans,Espresso,Decaf Espresso,Decaf
+LTE1-708-948,04-10-2014,Major Market,Central,Illinois,677,179,101,67,22,70,54,Leaves,Tea,Earl Grey,Regular
+LTG1-585-192,04-11-2014,Major Market,East,New York,601,142,79,54,15,77,27,Leaves,Tea,Green Tea,Regular
+LTG1-510-516,04-12-2014,Major Market,West,California,677,179,101,67,22,70,54,Leaves,Tea,Green Tea,Regular
+BCA1-541-980,04/15/2014,Small Market,West,Oregon,521,119,65,47,42,-10,72,Beans,Coffee,Amaretto,Regular
+BCC1-435-640,04/16/2014,Small Market,West,Utah,392,121,65,49,16,31,44,Beans,Coffee,Colombian,Regular
+LHL2-318-333,04/18/2014,Small Market,South,Louisiana,619,163,85,68,25,39,59,Leaves,Herbal Tea,Lemon,Decaf
+BCD2-214-172,04/19/2014,Major Market,South,Texas,541,90,51,39,12,-28,25,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-936-264,04/20/2014,Major Market,South,Texas,1246,520,281,239,74,185,96,Beans,Coffee,Colombian,Regular
+BEC1-210-791,04/21/2014,Major Market,South,Texas,915,302,179,123,34,133,46,Beans,Espresso,Caffe Latte,Regular
+BCD2-225-991,04/22/2014,Small Market,South,Louisiana,851,118,70,48,13,-115,25,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-225-675,04/23/2014,Small Market,South,Louisiana,829,119,71,48,13,47,24,Beans,Coffee,Colombian,Regular
+BCC1-505-244,04/24/2014,Small Market,South,New Mexico,447,114,69,45,14,23,46,Beans,Coffee,Colombian,Regular
+BCC1-918-851,04/25/2014,Small Market,South,Oklahoma,572,205,115,90,29,-206,41,Beans,Coffee,Colombian,Regular
+LHC2-225-113,04/27/2014,Small Market,South,Louisiana,564,236,133,103,33,87,46,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-504-797,04/28/2014,Small Market,South,Louisiana,593,177,98,79,30,34,64,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-405-595,04/29/2014,Small Market,South,Oklahoma,683,230,134,96,87,17,117,Leaves,Herbal Tea,Lemon,Decaf
+BCC1-956-535,04/30/2014,Major Market,South,Texas,1272,490,265,225,69,118,91,Beans,Coffee,Colombian,Regular
+BEC1-409-785,05-02-2014,Major Market,South,Texas,930,290,172,118,33,127,45,Beans,Espresso,Caffe Latte,Regular
+BED2-918-823,05-03-2014,Small Market,South,Oklahoma,798,197,119,78,25,62,57,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-918-764,05-04-2014,Small Market,South,Oklahoma,561,200,112,88,29,71,41,Beans,Coffee,Colombian,Regular
+LHC2-337-716,05-06-2014,Small Market,South,Louisiana,552,231,130,101,33,85,45,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-505-404,05-07-2014,Small Market,South,New Mexico,848,39,24,15,4,-11,15,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-337-819,05-08-2014,Small Market,South,Louisiana,601,184,102,82,31,38,64,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-580-975,05-09-2014,Small Market,South,Oklahoma,694,224,130,94,85,15,115,Leaves,Herbal Tea,Lemon,Decaf
+BCC1-972-152,05-10-2014,Major Market,South,Texas,1321,525,284,241,74,188,96,Beans,Coffee,Colombian,Regular
+BEC1-972-650,05-11-2014,Major Market,South,Texas,959,302,179,123,34,133,46,Beans,Espresso,Caffe Latte,Regular
+BCD2-505-633,05-12-2014,Small Market,South,New Mexico,1898,160,68,92,28,-8,52,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-318-187,05/14/2014,Small Market,South,Louisiana,845,120,71,49,13,22,25,Beans,Coffee,Colombian,Regular
+BCC1-505-481,05/15/2014,Small Market,South,New Mexico,462,122,74,48,15,27,47,Beans,Coffee,Colombian,Regular
+BCC1-405-426,05/16/2014,Small Market,South,Oklahoma,551,185,104,81,26,66,38,Beans,Coffee,Colombian,Regular
+LHC2-225-970,05/19/2014,Small Market,South,Louisiana,540,214,120,94,31,77,43,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-505-875,05/20/2014,Small Market,South,New Mexico,851,41,25,16,4,9,16,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-580-792,05/21/2014,Small Market,South,Oklahoma,716,250,145,105,95,20,125,Leaves,Herbal Tea,Lemon,Decaf
+BCD2-281-891,05/22/2014,Major Market,South,Texas,541,96,51,39,12,39,25,Beans,Coffee,Decaf Irish Cream,Decaf
+BEC1-817-551,05/24/2014,Major Market,South,Texas,915,322,179,123,34,197,46,Beans,Espresso,Caffe Latte,Regular
+BCD2-985-256,05/25/2014,Small Market,South,Louisiana,851,126,70,48,13,67,25,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-505-321,05/27/2014,Small Market,South,New Mexico,447,121,69,45,14,34,46,Beans,Coffee,Colombian,Regular
+LHC2-318-269,05/30/2014,Small Market,South,Louisiana,564,251,133,103,33,129,46,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-225-573,05/31/2014,Small Market,South,Louisiana,593,189,98,79,30,50,64,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-918-310,06-01-2014,Small Market,South,Oklahoma,683,245,134,96,87,25,117,Leaves,Herbal Tea,Lemon,Decaf
+BCC1-432-909,06-02-2014,Major Market,South,Texas,1272,522,265,225,69,-202,91,Beans,Coffee,Colombian,Regular
+BEC1-915-513,06-04-2014,Major Market,South,Texas,930,309,172,118,33,188,45,Beans,Espresso,Caffe Latte,Regular
+BED2-580-510,06-05-2014,Small Market,South,Oklahoma,798,210,119,78,25,92,57,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-918-304,06-06-2014,Small Market,South,Oklahoma,561,213,112,88,29,105,41,Beans,Coffee,Colombian,Regular
+LHC2-985-317,06-08-2014,Small Market,South,Louisiana,552,246,130,101,33,126,45,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-505-390,06-09-2014,Small Market,South,New Mexico,848,42,24,15,4,13,15,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-337-616,06-10-2014,Small Market,South,Louisiana,601,196,102,82,31,56,64,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-405-689,06-11-2014,Small Market,South,Oklahoma,694,239,130,94,85,24,115,Leaves,Herbal Tea,Lemon,Decaf
+BCC1-409-858,06-12-2014,Major Market,South,Texas,1321,559,284,241,74,279,96,Beans,Coffee,Colombian,Regular
+BEC1-254-110,06/13/2014,Major Market,South,Texas,959,322,179,123,34,197,46,Beans,Espresso,Caffe Latte,Regular
+BED2-918-862,06/15/2014,Small Market,South,Oklahoma,817,236,133,88,29,107,61,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-985-617,06/16/2014,Small Market,South,Louisiana,845,128,71,49,13,68,25,Beans,Coffee,Colombian,Regular
+BCC1-505-162,06/17/2014,Small Market,South,New Mexico,462,130,74,48,15,40,47,Beans,Coffee,Colombian,Regular
+BCC1-580-263,06/18/2014,Small Market,South,Oklahoma,551,197,104,81,26,98,38,Beans,Coffee,Colombian,Regular
+LHC2-985-274,06/21/2014,Small Market,South,Louisiana,540,228,120,94,31,114,43,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-505-794,06/22/2014,Small Market,South,New Mexico,851,44,25,16,4,13,16,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-580-746,06/23/2014,Small Market,South,Oklahoma,716,266,145,105,95,30,125,Leaves,Herbal Tea,Lemon,Decaf
+BCC1-860-572,06/24/2014,Small Market,East,Connecticut,1119,313,188,125,41,115,73,Beans,Coffee,Colombian,Regular
+BEC1-203-566,06/25/2014,Small Market,East,Connecticut,606,144,84,60,54,1,83,Beans,Espresso,Caffe Latte,Regular
+BCC1-203-904,06/26/2014,Small Market,East,Connecticut,1134,325,195,130,42,122,73,Beans,Coffee,Colombian,Regular
+BCC1-203-746,06/27/2014,Small Market,East,Connecticut,1166,289,174,115,37,100,69,Beans,Coffee,Colombian,Regular
+BCC1-203-812,06/28/2014,Small Market,East,Connecticut,1119,334,188,125,41,171,73,Beans,Coffee,Colombian,Regular
+BEC1-959-843,06/29/2014,Small Market,East,Connecticut,606,153,84,60,54,1,83,Beans,Espresso,Caffe Latte,Regular
+BCC1-203-549,06/30/2014,Small Market,East,Connecticut,1134,346,195,130,42,181,73,Beans,Coffee,Colombian,Regular
+BCD2-561-529,07-02-2014,Major Market,East,Florida,656,218,127,91,28,76,51,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-239-114,07-03-2014,Major Market,East,Florida,547,202,116,86,28,60,56,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-407-562,07-04-2014,Major Market,East,Florida,788,205,123,82,27,64,59,Beans,Coffee,Colombian,Regular
+BCC1-857-142,07-05-2014,Major Market,East,Massachusetts,-3004,474,402,72,23,348,54,Beans,Coffee,Colombian,Regular
+BCC1-315-319,07-06-2014,Major Market,East,New York,2548,650,390,260,91,247,143,Beans,Coffee,Colombian,Regular
+BEC1-239-680,07-07-2014,Major Market,East,Florida,683,230,134,96,87,18,116,Beans,Espresso,Caffe Latte,Regular
+BEC1-845-326,07-08-2014,Major Market,East,New York,3142,69,-56,125,113,138,146,Beans,Espresso,Caffe Latte,Regular
+BER1-718-634,07-10-2014,Major Market,East,New York,1197,765,526,239,66,435,91,Beans,Espresso,Regular Espresso,Regular
+LHC2-386-396,07-11-2014,Major Market,East,Florida,573,51,29,22,7,10,19,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-845-115,07-12-2014,Major Market,East,New York,1622,513,258,255,96,-11,129,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-315-882,07/13/2014,Major Market,East,New York,4360,164,-75,239,74,-170,95,Leaves,Herbal Tea,Mint,Decaf
+LTE1-716-403,07/15/2014,Major Market,East,New York,915,302,179,123,34,134,45,Leaves,Tea,Earl Grey,Regular
+LTG1-518-847,07/16/2014,Major Market,East,New York,580,187,111,76,21,-122,33,Leaves,Tea,Green Tea,Regular
+BCD2-772-552,07/17/2014,Major Market,East,Florida,666,245,143,102,31,88,54,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-561-918,07/18/2014,Major Market,East,Florida,557,180,103,77,25,51,52,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-754-771,07/19/2014,Major Market,East,Florida,798,197,119,78,25,63,56,Beans,Coffee,Colombian,Regular
+BCC1-978-575,07/20/2014,Major Market,East,Massachusetts,-3287,454,379,75,24,324,55,Beans,Coffee,Colombian,Regular
+BCC1-347-243,07/21/2014,Major Market,East,New York,2580,623,374,249,87,236,138,Beans,Coffee,Colombian,Regular
+BEC1-347-216,07/23/2014,Major Market,East,New York,3385,61,-60,121,109,-202,142,Beans,Espresso,Caffe Latte,Regular
+BER1-508-676,07/24/2014,Major Market,East,Massachusetts,1283,363,182,181,50,108,74,Beans,Espresso,Regular Espresso,Regular
+BER1-646-590,07/25/2014,Major Market,East,New York,933,675,464,211,59,381,83,Beans,Espresso,Regular Espresso,Regular
+LHC2-561-245,07/26/2014,Major Market,East,Florida,570,52,30,22,7,11,19,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-914-398,07/28/2014,Major Market,East,New York,4742,160,-65,225,69,-156,91,Leaves,Herbal Tea,Mint,Decaf
+LTD1-518-625,07/29/2014,Major Market,East,New York,984,198,117,81,22,84,33,Leaves,Tea,Darjeeling,Regular
+LTE1-315-969,07/30/2014,Major Market,East,New York,930,290,172,118,33,127,45,Leaves,Tea,Earl Grey,Regular
+BCD2-813-775,07/31/2014,Major Market,East,Florida,690,320,186,134,41,122,64,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-407-459,08-01-2014,Major Market,East,Florida,575,195,112,83,27,58,54,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-754-977,08-02-2014,Major Market,East,Florida,817,221,133,88,29,73,60,Beans,Coffee,Colombian,Regular
+BCC1-351-688,08-03-2014,Major Market,East,Massachusetts,-3534,510,443,67,22,390,53,Beans,Coffee,Colombian,Regular
+BCC1-845-977,08-04-2014,Major Market,East,New York,2642,699,420,279,97,271,149,Beans,Coffee,Colombian,Regular
+BEC1-305-796,08-05-2014,Major Market,East,Florida,716,250,145,105,95,21,124,Beans,Espresso,Caffe Latte,Regular
+BEC1-212-354,08-06-2014,Major Market,East,New York,3641,66,-69,135,122,-238,155,Beans,Espresso,Caffe Latte,Regular
+BER1-351-906,08-07-2014,Major Market,East,Massachusetts,1319,306,153,153,42,87,66,Beans,Espresso,Regular Espresso,Regular
+BER1-718-856,08-08-2014,Major Market,East,New York,723,657,407,250,70,304,95,Beans,Espresso,Regular Espresso,Regular
+LHM2-716-940,08-10-2014,Major Market,East,New York,5121,148,-93,241,74,-228,96,Leaves,Herbal Tea,Mint,Decaf
+LTD1-716-695,08-11-2014,Major Market,East,New York,1003,210,124,86,24,89,35,Leaves,Tea,Darjeeling,Regular
+LTE1-718-407,08-12-2014,Major Market,East,New York,959,302,179,123,34,116,46,Leaves,Tea,Earl Grey,Regular
+BCD2-772-223,08/13/2014,Major Market,East,Florida,656,232,127,91,28,136,51,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-321-428,08/14/2014,Major Market,East,Florida,547,215,116,86,28,89,56,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-954-498,08/15/2014,Major Market,East,Florida,788,218,123,82,27,95,59,Beans,Coffee,Colombian,Regular
+BCC1-857-187,08/16/2014,Major Market,East,Massachusetts,-3004,505,402,72,23,516,54,Beans,Coffee,Colombian,Regular
+BCC1-716-531,08/17/2014,Major Market,East,New York,2548,693,390,260,91,367,143,Beans,Coffee,Colombian,Regular
+BEC1-727-544,08/18/2014,Major Market,East,Florida,683,245,134,96,87,27,116,Beans,Espresso,Caffe Latte,Regular
+BEC1-914-278,08/19/2014,Major Market,East,New York,3142,74,-56,125,113,-300,146,Beans,Espresso,Caffe Latte,Regular
+LHC2-904-659,08/22/2014,Major Market,East,Florida,573,54,29,22,7,15,19,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-631-786,08/24/2014,Major Market,East,New York,4360,175,-75,239,74,-252,95,Leaves,Herbal Tea,Mint,Decaf
+LTD1-585-442,08/25/2014,Major Market,East,New York,971,282,157,108,30,171,42,Leaves,Tea,Darjeeling,Regular
+BCC1-857-207,08/31/2014,Major Market,East,Massachusetts,-3287,484,379,75,24,481,55,Beans,Coffee,Colombian,Regular
+BCC1-607-309,09-01-2014,Major Market,East,New York,2580,664,374,249,87,350,138,Beans,Coffee,Colombian,Regular
+BEC1-813-884,09-02-2014,Major Market,East,Florida,694,239,130,94,85,22,115,Beans,Espresso,Caffe Latte,Regular
+BEC1-914-382,09-03-2014,Major Market,East,New York,3385,65,-60,121,109,-300,142,Beans,Espresso,Caffe Latte,Regular
+BER1-617-169,09-04-2014,Major Market,East,Massachusetts,1283,387,182,181,50,200,74,Beans,Espresso,Regular Espresso,Regular
+LHC2-727-410,09-06-2014,Major Market,East,Florida,570,55,30,22,7,16,19,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-585-381,09-07-2014,Major Market,East,New York,1704,614,331,245,93,303,127,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-518-198,09-08-2014,Major Market,East,New York,4742,171,-65,225,69,-232,91,Leaves,Herbal Tea,Mint,Decaf
+LTE1-914-958,09-10-2014,Major Market,East,New York,930,309,172,118,33,188,45,Leaves,Tea,Earl Grey,Regular
+BED2-386-296,09-12-2014,Major Market,East,Florida,575,208,112,83,27,86,54,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-351-903,09/14/2014,Major Market,East,Massachusetts,-3534,543,443,67,22,579,53,Beans,Coffee,Colombian,Regular
+BCC1-315-134,09/15/2014,Major Market,East,New York,2642,745,420,279,97,402,149,Beans,Coffee,Colombian,Regular
+BEC1-305-897,09/16/2014,Major Market,East,Florida,716,266,145,105,95,31,124,Beans,Espresso,Caffe Latte,Regular
+BEC1-845-431,09/17/2014,Major Market,East,New York,3641,70,-69,135,122,-332,155,Beans,Espresso,Caffe Latte,Regular
+BER1-857-247,09/18/2014,Major Market,East,Massachusetts,1319,326,153,153,42,129,66,Beans,Espresso,Regular Espresso,Regular
+BER1-518-381,09/19/2014,Major Market,East,New York,723,700,407,250,70,463,95,Beans,Espresso,Regular Espresso,Regular
+LHL2-631-525,09/20/2014,Major Market,East,New York,1727,796,453,294,111,459,144,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-716-649,09/21/2014,Major Market,East,New York,5121,158,-93,241,74,-280,96,Leaves,Herbal Tea,Mint,Decaf
+LTD1-718-190,09/22/2014,Major Market,East,New York,1003,224,124,86,24,132,35,Leaves,Tea,Darjeeling,Regular
+LTE1-518-131,09/23/2014,Major Market,East,New York,959,322,179,123,34,197,46,Leaves,Tea,Earl Grey,Regular
+BCD2-719-233,09/24/2014,Major Market,Central,Colorado,971,265,157,108,30,116,41,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-815-215,09/25/2014,Major Market,Central,Illinois,789,298,176,122,39,115,61,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-303-569,09/26/2014,Major Market,Central,Colorado,650,182,110,72,23,56,54,Beans,Espresso,Decaf Espresso,Decaf
+BED2-312-849,09/27/2014,Major Market,Central,Illinois,1755,478,239,239,66,149,90,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-970-362,09/29/2014,Major Market,Central,Colorado,915,302,179,123,34,133,46,Beans,Coffee,Amaretto,Regular
+BEC1-303-650,10-01-2014,Major Market,Central,Colorado,580,187,111,76,21,79,32,Beans,Espresso,Caffe Latte,Regular
+BEC1-815-953,10-02-2014,Major Market,Central,Illinois,1662,598,341,257,84,224,117,Beans,Espresso,Caffe Latte,Regular
+BEC1-567-670,10-03-2014,Major Market,Central,Ohio,1267,322,161,161,45,92,69,Beans,Espresso,Caffe Latte,Regular
+LHC2-708-635,10-05-2014,Major Market,Central,Illinois,915,302,179,123,34,133,46,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-815-614,10-06-2014,Major Market,Central,Illinois,971,265,157,108,30,116,41,Leaves,Herbal Tea,Mint,Decaf
+LTD1-234-676,10-07-2014,Major Market,Central,Ohio,788,205,123,82,27,65,58,Leaves,Tea,Darjeeling,Regular
+LTE1-614-359,10-08-2014,Major Market,Central,Ohio,656,218,127,91,28,76,51,Leaves,Tea,Earl Grey,Regular
+LTG1-720-406,10-09-2014,Major Market,Central,Colorado,572,205,115,90,29,74,41,Leaves,Tea,Green Tea,Regular
+BCD2-641-176,10-10-2014,Small Market,Central,Iowa,598,23,13,10,3,-2,15,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-715-752,10-11-2014,Small Market,Central,Wisconsin,547,202,116,86,28,61,55,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-816-341,10-12-2014,Small Market,Central,Missouri,593,177,98,79,30,35,63,Beans,Coffee,Colombian,Regular
+BCC1-715-994,10/13/2014,Small Market,Central,Wisconsin,683,230,134,96,87,18,116,Beans,Coffee,Colombian,Regular
+BEC1-314-669,10/14/2014,Small Market,Central,Missouri,881,99,59,40,11,36,23,Beans,Espresso,Caffe Latte,Regular
+BEC1-608-499,10/15/2014,Small Market,Central,Wisconsin,1055,174,94,80,24,-24,46,Beans,Espresso,Caffe Latte,Regular
+LHC2-712-632,10/16/2014,Small Market,Central,Iowa,1662,598,341,257,84,224,117,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-641-466,10/17/2014,Small Market,Central,Iowa,789,298,176,122,39,114,62,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-573-733,10/18/2014,Small Market,Central,Missouri,1698,109,23,86,26,-26,49,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-563-265,10/19/2014,Small Market,Central,Iowa,1755,478,239,239,66,149,90,Leaves,Tea,Darjeeling,Regular
+LTE1-563-664,10/20/2014,Small Market,Central,Iowa,1756,567,312,255,96,183,129,Leaves,Tea,Earl Grey,Regular
+LTE1-417-273,10/21/2014,Small Market,Central,Missouri,209,56,31,25,9,-11,42,Leaves,Tea,Earl Grey,Regular
+BCD2-970-250,10/22/2014,Major Market,Central,Colorado,984,198,117,81,22,84,33,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-303-823,10/24/2014,Major Market,Central,Colorado,659,189,114,75,24,16,56,Beans,Espresso,Decaf Espresso,Decaf
+BED2-847-290,10/25/2014,Major Market,Central,Illinois,1778,423,212,211,59,129,83,Beans,Espresso,Decaf Espresso,Decaf
+BCC1-815-252,10/27/2014,Major Market,Central,Illinois,1150,412,239,173,57,138,100,Beans,Coffee,Colombian,Regular
+BEC1-303-491,10/28/2014,Major Market,Central,Colorado,589,123,73,50,14,48,25,Beans,Espresso,Caffe Latte,Regular
+BEC1-224-531,10/29/2014,Major Market,Central,Illinois,1691,532,304,228,75,196,108,Beans,Espresso,Caffe Latte,Regular
+BEC1-440-181,10/30/2014,Major Market,Central,Ohio,1283,363,182,181,50,107,75,Beans,Espresso,Caffe Latte,Regular
+LHC2-970-347,10/31/2014,Major Market,Central,Colorado,1283,363,182,181,50,107,75,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-312-249,11-01-2014,Major Market,Central,Illinois,930,290,172,118,33,127,45,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-630-975,11-02-2014,Major Market,Central,Illinois,984,198,117,81,22,84,33,Leaves,Herbal Tea,Mint,Decaf
+LTD1-330-313,11-03-2014,Major Market,Central,Ohio,798,197,119,78,25,62,57,Leaves,Tea,Darjeeling,Regular
+LTE1-630-391,11-04-2014,Major Market,Central,Illinois,659,189,114,75,24,59,55,Leaves,Tea,Earl Grey,Regular
+LTG1-719-432,11-06-2014,Major Market,Central,Colorado,561,200,112,88,29,70,42,Leaves,Tea,Green Tea,Regular
+BCD2-641-128,11-07-2014,Small Market,Central,Iowa,596,23,13,10,3,-3,16,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-262-741,11-08-2014,Small Market,Central,Wisconsin,557,180,103,77,25,51,52,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-573-403,11-10-2014,Small Market,Central,Missouri,601,184,102,82,31,38,64,Beans,Coffee,Colombian,Regular
+BCC1-262-403,11-11-2014,Small Market,Central,Wisconsin,694,224,130,94,85,16,114,Beans,Coffee,Colombian,Regular
+BEC1-314-647,11-12-2014,Small Market,Central,Missouri,885,132,78,54,15,51,27,Beans,Espresso,Caffe Latte,Regular
+LHC2-712-588,11/14/2014,Small Market,Central,Iowa,1691,532,304,228,75,196,108,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-712-283,11/15/2014,Small Market,Central,Iowa,803,278,165,113,36,107,58,Leaves,Herbal Tea,Lemon,Decaf
+BCD2-720-329,11/18/2014,Major Market,Central,Colorado,1003,210,124,86,24,88,36,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-630-312,11/21/2014,Major Market,Central,Illinois,1820,501,251,250,70,157,94,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-719-117,11/22/2014,Major Market,Central,Colorado,959,302,179,123,34,134,45,Beans,Coffee,Amaretto,Regular
+BEC1-970-274,11/24/2014,Major Market,Central,Colorado,601,133,79,54,15,53,26,Beans,Espresso,Caffe Latte,Regular
+BEC1-815-636,11/25/2014,Major Market,Central,Illinois,1744,576,329,247,81,216,113,Beans,Espresso,Caffe Latte,Regular
+BEC1-740-652,11/26/2014,Major Market,Central,Ohio,1319,306,153,153,42,87,66,Beans,Espresso,Caffe Latte,Regular
+LHC2-309-964,11/28/2014,Major Market,Central,Illinois,959,302,179,123,34,133,46,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-630-918,11/29/2014,Major Market,Central,Illinois,1003,210,124,86,24,88,36,Leaves,Herbal Tea,Mint,Decaf
+LTD1-513-284,11/30/2014,Major Market,Central,Ohio,817,221,133,88,29,72,61,Leaves,Tea,Darjeeling,Regular
+LTE1-740-136,12-01-2014,Major Market,Central,Ohio,690,320,186,134,41,121,65,Leaves,Tea,Earl Grey,Regular
+LTG1-719-208,12-02-2014,Major Market,Central,Colorado,551,185,104,81,26,66,38,Leaves,Tea,Green Tea,Regular
+BCD2-319-892,12-03-2014,Small Market,Central,Iowa,594,24,14,10,3,-1,15,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-715-459,12-04-2014,Small Market,Central,Wisconsin,575,195,112,83,27,57,55,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-573-866,12-05-2014,Small Market,Central,Missouri,619,153,85,68,25,26,59,Beans,Coffee,Colombian,Regular
+BCC1-715-510,12-06-2014,Small Market,Central,Wisconsin,716,250,145,105,95,20,125,Beans,Coffee,Colombian,Regular
+BEC1-314-712,12-07-2014,Small Market,Central,Missouri,898,123,73,50,14,48,25,Beans,Espresso,Caffe Latte,Regular
+BEC1-715-692,12-08-2014,Small Market,Central,Wisconsin,1079,176,96,80,24,50,46,Beans,Espresso,Caffe Latte,Regular
+LHC2-641-961,12-09-2014,Small Market,Central,Iowa,1744,576,329,247,81,216,113,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-319-613,12-10-2014,Small Market,Central,Iowa,830,312,185,127,40,123,62,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-641-331,12-11-2014,Small Market,Central,Iowa,1820,501,251,250,70,156,95,Leaves,Tea,Darjeeling,Regular
+LTE1-641-433,12-12-2014,Small Market,Central,Iowa,1838,654,360,294,111,216,144,Leaves,Tea,Earl Grey,Regular
+LTE1-573-774,12/13/2014,Small Market,Central,Missouri,218,45,25,20,7,-16,41,Leaves,Tea,Earl Grey,Regular
+BCD2-719-390,12/14/2014,Major Market,Central,Colorado,971,282,157,108,30,-128,41,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-815-990,12/15/2014,Major Market,Central,Illinois,789,318,176,122,39,171,61,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-970-767,12/16/2014,Major Market,Central,Colorado,650,194,110,72,23,-177,54,Beans,Espresso,Decaf Espresso,Decaf
+BED2-773-777,12/17/2014,Major Market,Central,Illinois,1755,509,239,239,66,-379,90,Beans,Espresso,Decaf Espresso,Decaf
+BED2-419-287,12/18/2014,Major Market,Central,Ohio,404,128,66,54,20,18,54,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-719-935,12/19/2014,Major Market,Central,Colorado,915,322,179,123,34,197,46,Beans,Coffee,Amaretto,Regular
+BCC1-815-568,12/20/2014,Major Market,Central,Illinois,1132,391,213,154,50,-142,93,Beans,Coffee,Colombian,Regular
+BEC1-970-891,12/21/2014,Major Market,Central,Colorado,580,199,111,76,21,117,32,Beans,Espresso,Caffe Latte,Regular
+BEC1-312-605,12/22/2014,Major Market,Central,Illinois,1662,637,341,257,84,332,117,Beans,Espresso,Caffe Latte,Regular
+BEC1-513-768,12/23/2014,Major Market,Central,Ohio,1267,343,161,161,45,137,69,Beans,Espresso,Caffe Latte,Regular
+LHC2-720-565,12/24/2014,Major Market,Central,Colorado,1267,343,161,161,45,164,69,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-708-310,12/25/2014,Major Market,Central,Illinois,915,322,179,123,34,254,46,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-815-877,12/26/2014,Major Market,Central,Illinois,971,282,157,108,30,172,41,Leaves,Herbal Tea,Mint,Decaf
+LTD1-419-115,12/27/2014,Major Market,Central,Ohio,788,218,123,82,27,96,58,Leaves,Tea,Darjeeling,Regular
+LTE1-419-830,12/28/2014,Major Market,Central,Ohio,656,232,127,91,28,113,51,Leaves,Tea,Earl Grey,Regular
+LTG1-970-263,12/29/2014,Major Market,Central,Colorado,572,218,115,90,29,110,41,Leaves,Tea,Green Tea,Regular
+BCD2-920-975,12/31/2014,Small Market,Central,Wisconsin,547,215,116,86,28,91,55,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-414-561,01-02-2015,Small Market,Central,Wisconsin,683,245,134,96,87,27,116,Beans,Coffee,Colombian,Regular
+LHC2-319-953,01-05-2015,Small Market,Central,Iowa,1662,637,341,257,84,332,117,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-515-985,01-06-2015,Small Market,Central,Iowa,789,318,176,122,39,208,62,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-417-102,01-07-2015,Small Market,Central,Missouri,1698,116,23,86,26,-88,49,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-515-888,01-08-2015,Small Market,Central,Iowa,1755,509,239,239,66,221,90,Leaves,Tea,Darjeeling,Regular
+LTE1-515-315,01-09-2015,Small Market,Central,Iowa,1756,604,312,255,96,272,129,Leaves,Tea,Earl Grey,Regular
+BCD2-847-433,01-12-2015,Major Market,Central,Illinois,803,296,165,113,36,157,59,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-815-293,01/16/2015,Major Market,Central,Illinois,1150,439,239,173,57,206,100,Beans,Coffee,Colombian,Regular
+BEC1-630-509,01/18/2015,Major Market,Central,Illinois,1691,567,304,228,75,291,108,Beans,Espresso,Caffe Latte,Regular
+BEC1-234-695,01/19/2015,Major Market,Central,Ohio,1283,387,182,181,50,159,75,Beans,Espresso,Caffe Latte,Regular
+LHC2-970-539,01/20/2015,Major Market,Central,Colorado,1283,387,182,181,50,159,75,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-708-497,01/21/2015,Major Market,Central,Illinois,930,309,172,118,33,188,45,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-708-319,01/22/2015,Major Market,Central,Illinois,984,211,117,81,22,125,33,Leaves,Herbal Tea,Mint,Decaf
+LTE1-309-360,01/24/2015,Major Market,Central,Illinois,659,201,114,75,24,88,55,Leaves,Tea,Earl Grey,Regular
+LTE1-740-695,01/25/2015,Major Market,Central,Ohio,666,261,143,102,31,132,54,Leaves,Tea,Earl Grey,Regular
+LTG1-970-415,01/26/2015,Major Market,Central,Colorado,561,213,112,88,29,104,42,Leaves,Tea,Green Tea,Regular
+BCD2-319-461,01/27/2015,Small Market,Central,Iowa,596,25,13,10,3,-4,16,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-920-591,01/28/2015,Small Market,Central,Wisconsin,557,192,103,77,25,76,52,Beans,Coffee,Decaf Irish Cream,Decaf
+BCA1-712-264,01/29/2015,Small Market,Central,Iowa,848,42,24,15,4,12,16,Beans,Coffee,Amaretto,Regular
+BCC1-573-329,01/30/2015,Small Market,Central,Missouri,601,196,102,82,31,56,64,Beans,Coffee,Colombian,Regular
+BCC1-608-821,01/31/2015,Small Market,Central,Wisconsin,694,239,130,94,85,18,114,Beans,Coffee,Colombian,Regular
+BEC1-573-960,02-01-2015,Small Market,Central,Missouri,885,141,78,54,15,76,27,Beans,Espresso,Caffe Latte,Regular
+BEC1-715-985,02-02-2015,Small Market,Central,Wisconsin,1063,175,89,75,23,67,44,Beans,Espresso,Caffe Latte,Regular
+LHC2-641-212,02-03-2015,Small Market,Central,Iowa,1691,567,304,228,75,291,108,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-641-739,02-04-2015,Small Market,Central,Iowa,803,296,165,113,36,159,58,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-563-696,02-05-2015,Small Market,Central,Iowa,1778,451,212,211,59,191,83,Leaves,Tea,Darjeeling,Regular
+LTE1-641-896,02-06-2015,Small Market,Central,Iowa,1784,581,300,245,93,384,127,Leaves,Tea,Earl Grey,Regular
+BCD2-720-680,02-07-2015,Major Market,Central,Colorado,1003,224,124,86,24,131,36,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-312-133,02-08-2015,Major Market,Central,Illinois,830,332,185,127,40,181,63,Beans,Coffee,Decaf Irish Cream,Decaf
+BCA1-303-165,02-11-2015,Major Market,Central,Colorado,959,322,179,123,34,199,45,Beans,Coffee,Amaretto,Regular
+BCC1-312-800,02-12-2015,Major Market,Central,Illinois,1191,569,310,224,73,288,116,Beans,Coffee,Colombian,Regular
+BEC1-970-199,02/13/2015,Major Market,Central,Colorado,601,142,79,54,15,79,26,Beans,Espresso,Caffe Latte,Regular
+BEC1-708-131,02/14/2015,Major Market,Central,Illinois,1744,614,329,247,81,321,113,Beans,Espresso,Caffe Latte,Regular
+BEC1-937-570,02/15/2015,Major Market,Central,Ohio,1319,326,153,153,42,129,66,Beans,Espresso,Caffe Latte,Regular
+LHC2-618-847,02/17/2015,Major Market,Central,Illinois,959,322,179,123,34,197,46,Leaves,Herbal Tea,Chamomile,Decaf
+LHM2-312-230,02/18/2015,Major Market,Central,Illinois,1003,224,124,86,24,131,36,Leaves,Herbal Tea,Mint,Decaf
+LTE1-513-788,02/20/2015,Major Market,Central,Ohio,690,341,186,134,41,180,65,Leaves,Tea,Earl Grey,Regular
+LTG1-719-137,02/21/2015,Major Market,Central,Colorado,551,197,104,81,26,98,38,Leaves,Tea,Green Tea,Regular
+BCD2-712-949,02/22/2015,Small Market,Central,Iowa,594,26,14,10,3,-1,15,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-414-985,02/23/2015,Small Market,Central,Wisconsin,575,208,112,83,27,85,55,Beans,Coffee,Decaf Irish Cream,Decaf
+BCC1-573-871,02/24/2015,Small Market,Central,Missouri,619,163,85,68,25,39,59,Beans,Coffee,Colombian,Regular
+BEC1-573-420,02/26/2015,Small Market,Central,Missouri,898,131,73,50,14,71,25,Beans,Espresso,Caffe Latte,Regular
+BEC1-262-483,02/27/2015,Small Market,Central,Wisconsin,1079,188,96,80,24,74,46,Beans,Espresso,Caffe Latte,Regular
+LHC2-515-874,02/28/2015,Small Market,Central,Iowa,1744,614,329,247,81,321,113,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-515-906,03-01-2015,Small Market,Central,Iowa,830,332,185,127,40,183,62,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-641-882,03-02-2015,Small Market,Central,Iowa,1820,534,251,250,70,232,95,Leaves,Tea,Darjeeling,Regular
+LTE1-563-436,03-03-2015,Small Market,Central,Iowa,1838,697,360,294,111,321,144,Leaves,Tea,Earl Grey,Regular
+LTE1-816-211,03-04-2015,Small Market,Central,Missouri,218,48,25,20,7,-24,41,Leaves,Tea,Earl Grey,Regular
+BCA1-818-172,03-07-2015,Major Market,West,California,2555,109,-13,122,39,-74,61,Beans,Coffee,Amaretto,Regular
+BEC1-562-285,03-10-2015,Major Market,West,California,898,298,173,125,113,27,146,Beans,Espresso,Caffe Latte,Regular
+LHC2-661-464,03-11-2015,Major Market,West,California,971,265,157,108,30,115,42,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-562-338,03-12-2015,Major Market,West,California,1246,520,281,239,74,186,95,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-562-681,03/13/2015,Major Market,West,California,915,302,179,123,34,134,45,Leaves,Tea,Darjeeling,Regular
+BCD2-435-522,03/15/2015,Small Market,West,Utah,593,177,98,79,30,34,64,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-425-404,03/16/2015,Small Market,West,Washington,683,230,134,96,87,17,117,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-253-776,03/18/2015,Small Market,West,Washington,1055,174,94,80,24,48,46,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-971-550,03/19/2015,Small Market,West,Oregon,503,122,71,51,46,-5,76,Beans,Coffee,Amaretto,Regular
+BCC1-971-269,03/21/2015,Small Market,West,Oregon,463,144,84,60,19,21,63,Beans,Coffee,Colombian,Regular
+BCC1-435-587,03/22/2015,Small Market,West,Utah,375,111,64,47,15,-138,42,Beans,Coffee,Colombian,Regular
+BCC1-206-613,03/23/2015,Small Market,West,Washington,438,167,99,68,21,56,43,Beans,Coffee,Colombian,Regular
+BEC1-702-832,03/25/2015,Small Market,West,Nevada,846,52,31,21,5,14,17,Beans,Espresso,Caffe Latte,Regular
+BEC1-801-356,03/26/2015,Small Market,West,Utah,564,236,133,103,33,-133,46,Beans,Espresso,Caffe Latte,Regular
+LHC2-775-152,03/27/2015,Small Market,West,Nevada,898,298,173,125,113,26,147,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-206-450,03/28/2015,Small Market,West,Washington,1119,313,188,125,41,115,73,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-702-855,03/29/2015,Small Market,West,Nevada,1132,367,213,154,50,120,93,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-702-925,03/31/2015,Small Market,West,Nevada,789,298,176,122,39,114,62,Leaves,Herbal Tea,Mint,Decaf
+LTD1-702-597,04-02-2015,Small Market,West,Nevada,1662,598,341,257,84,224,117,Leaves,Tea,Darjeeling,Regular
+LTE1-775-562,04-04-2015,Small Market,West,Nevada,1755,478,239,239,66,149,90,Leaves,Tea,Earl Grey,Regular
+LTG1-702-938,04-05-2015,Small Market,West,Nevada,7058,21,-255,255,96,-363,129,Leaves,Tea,Green Tea,Regular
+LTG1-435-774,04-06-2015,Small Market,West,Utah,209,56,31,25,9,-12,43,Leaves,Tea,Green Tea,Regular
+BCD2-909-901,04-07-2015,Major Market,West,California,3909,146,-27,173,57,-127,100,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-707-658,04-08-2015,Major Market,West,California,1691,532,304,228,75,197,107,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-619-553,04-09-2015,Major Market,West,California,2758,116,3,113,36,-56,59,Beans,Coffee,Amaretto,Regular
+BCC1-951-360,04-10-2015,Major Market,West,California,2580,623,374,249,87,235,139,Beans,Coffee,Colombian,Regular
+BEC1-818-452,04-12-2015,Major Market,West,California,912,289,168,121,109,26,142,Beans,Espresso,Caffe Latte,Regular
+LHC2-213-825,04/13/2015,Major Market,West,California,984,198,117,81,22,84,33,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-213-836,04/14/2015,Major Market,West,California,1272,490,265,225,69,174,91,Leaves,Herbal Tea,Lemon,Decaf
+BCD2-253-984,04/17/2015,Small Market,West,Washington,694,224,130,94,85,16,114,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-503-252,04/18/2015,Small Market,West,Oregon,1283,363,182,181,50,108,74,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-801-177,04/19/2015,Small Market,West,Utah,1060,150,81,69,21,39,42,Beans,Coffee,Amaretto,Regular
+BCC1-425-271,04/21/2015,Small Market,West,Washington,446,156,93,63,20,50,43,Beans,Coffee,Colombian,Regular
+BEC1-775-298,04/22/2015,Small Market,West,Nevada,848,39,24,15,4,9,15,Beans,Espresso,Caffe Latte,Regular
+LHC2-775-233,04/24/2015,Small Market,West,Nevada,912,289,168,121,109,26,142,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-206-846,04/25/2015,Small Market,West,Washington,1134,325,195,130,42,122,73,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-971-951,04/27/2015,Small Market,West,Oregon,561,200,112,88,29,70,42,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-702-613,04/28/2015,Small Market,West,Nevada,803,278,165,113,36,107,58,Leaves,Herbal Tea,Mint,Decaf
+LTE1-702-703,04/30/2015,Small Market,West,Nevada,1778,423,212,211,59,128,84,Leaves,Tea,Earl Grey,Regular
+LTE1-971-494,05-01-2015,Small Market,West,Oregon,798,197,119,78,25,62,57,Leaves,Tea,Earl Grey,Regular
+LTG1-702-848,05-02-2015,Small Market,West,Nevada,7653,32,-245,245,93,-340,127,Leaves,Tea,Green Tea,Regular
+LTG1-971-239,05-03-2015,Small Market,West,Oregon,666,245,143,102,31,-51,54,Leaves,Tea,Green Tea,Regular
+BCD2-714-606,05-04-2015,Major Market,West,California,4216,192,-32,224,73,-149,117,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-209-147,05-05-2015,Major Market,West,California,1744,576,329,247,81,216,113,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-951-425,05-06-2015,Major Market,West,California,2947,102,-25,127,40,-88,63,Beans,Coffee,Amaretto,Regular
+BCC1-707-992,05-07-2015,Major Market,West,California,2642,699,420,279,97,271,149,Beans,Coffee,Colombian,Regular
+BEC1-530-374,05-09-2015,Major Market,West,California,940,322,187,135,122,31,156,Beans,Espresso,Caffe Latte,Regular
+LHC2-626-766,05-10-2015,Major Market,West,California,1003,210,124,86,24,89,35,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-415-494,05-11-2015,Major Market,West,California,1321,525,284,241,74,188,96,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-916-956,05-12-2015,Major Market,West,California,959,302,179,123,34,134,45,Leaves,Tea,Darjeeling,Regular
+BCD2-509-576,05/14/2015,Small Market,West,Washington,716,250,145,105,95,-10,125,Beans,Coffee,Decaf Irish Cream,Decaf
+BCA1-435-517,05/17/2015,Small Market,West,Utah,1075,139,76,63,19,36,40,Beans,Coffee,Amaretto,Regular
+BEC1-775-430,05/19/2015,Small Market,West,Nevada,851,41,25,16,4,10,15,Beans,Espresso,Caffe Latte,Regular
+BEC1-435-858,05/20/2015,Small Market,West,Utah,540,214,120,94,31,77,43,Beans,Espresso,Caffe Latte,Regular
+LHC2-702-350,05/21/2015,Small Market,West,Nevada,940,322,187,135,122,32,155,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-509-582,05/22/2015,Small Market,West,Washington,1166,289,174,115,37,105,69,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-775-181,05/23/2015,Small Market,West,Nevada,1191,534,310,224,73,194,116,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-541-448,05/24/2015,Small Market,West,Oregon,551,185,104,81,26,66,38,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-775-325,05/25/2015,Small Market,West,Nevada,830,312,185,127,40,122,63,Leaves,Herbal Tea,Mint,Decaf
+LTD1-702-664,05/26/2015,Small Market,West,Nevada,1744,576,329,247,81,215,114,Leaves,Tea,Darjeeling,Regular
+LTE1-702-885,05/27/2015,Small Market,West,Nevada,1820,501,251,250,70,157,94,Leaves,Tea,Earl Grey,Regular
+LTE1-971-767,05/28/2015,Small Market,West,Oregon,817,221,133,88,29,73,60,Leaves,Tea,Earl Grey,Regular
+LTG1-775-791,05/29/2015,Small Market,West,Nevada,8252,31,-294,294,111,-408,145,Leaves,Tea,Green Tea,Regular
+LTG1-503-226,05/30/2015,Small Market,West,Oregon,690,320,186,134,41,142,65,Leaves,Tea,Green Tea,Regular
+LTG1-435-103,05/31/2015,Small Market,West,Utah,218,45,25,20,7,-15,40,Leaves,Tea,Green Tea,Regular
+BCD2-650-965,06-01-2015,Major Market,West,California,3654,139,-24,154,50,-174,93,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-415-846,06-02-2015,Major Market,West,California,1662,637,341,257,84,334,116,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-909-666,06-03-2015,Major Market,West,California,2555,116,-13,122,39,-110,61,Beans,Coffee,Amaretto,Regular
+BCC1-818-840,06-04-2015,Major Market,West,California,2548,693,390,260,91,367,143,Beans,Coffee,Colombian,Regular
+BEC1-805-765,06-06-2015,Major Market,West,California,898,318,173,125,113,40,146,Beans,Espresso,Caffe Latte,Regular
+LHC2-925-776,06-07-2015,Major Market,West,California,971,282,157,108,30,222,42,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-951-791,06-08-2015,Major Market,West,California,1246,554,281,239,74,276,95,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-831-632,06-09-2015,Major Market,West,California,915,322,179,123,34,199,45,Leaves,Tea,Darjeeling,Regular
+BCD2-435-238,06-11-2015,Small Market,West,Utah,593,189,98,79,30,50,64,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-360-299,06/14/2015,Small Market,West,Washington,1055,185,94,80,24,71,46,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-435-848,06/16/2015,Small Market,West,Utah,1053,151,77,65,20,53,41,Beans,Coffee,Amaretto,Regular
+BCC1-503-858,06/17/2015,Small Market,West,Oregon,463,153,84,60,19,-149,63,Beans,Coffee,Colombian,Regular
+BCC1-435-321,06/18/2015,Small Market,West,Utah,375,118,64,47,15,33,42,Beans,Coffee,Colombian,Regular
+BCC1-360-219,06/19/2015,Small Market,West,Washington,438,178,99,68,21,-137,43,Beans,Coffee,Colombian,Regular
+BEC1-435-903,06/22/2015,Small Market,West,Utah,564,251,133,103,33,129,46,Beans,Espresso,Caffe Latte,Regular
+LHC2-702-260,06/23/2015,Small Market,West,Nevada,898,318,173,125,113,39,147,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-775-885,06/25/2015,Small Market,West,Nevada,1132,391,213,154,50,236,93,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-541-283,06/26/2015,Small Market,West,Oregon,572,218,115,90,29,108,42,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-775-340,06/27/2015,Small Market,West,Nevada,789,318,176,122,39,208,62,Leaves,Herbal Tea,Mint,Decaf
+LTD1-775-408,06/29/2015,Small Market,West,Nevada,1662,637,341,257,84,332,117,Leaves,Tea,Darjeeling,Regular
+LTE1-775-564,07-01-2015,Small Market,West,Nevada,1755,509,239,239,66,221,90,Leaves,Tea,Earl Grey,Regular
+LTG1-435-730,07-03-2015,Small Market,West,Utah,209,60,31,25,9,-18,43,Leaves,Tea,Green Tea,Regular
+BCD2-626-885,07-04-2015,Major Market,West,California,3909,156,-27,173,57,-188,100,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-213-436,07-05-2015,Major Market,West,California,1691,567,304,228,75,292,107,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-916-281,07-06-2015,Major Market,West,California,2758,124,3,113,36,-83,59,Beans,Coffee,Amaretto,Regular
+BCC1-213-222,07-07-2015,Major Market,West,California,2580,664,374,249,87,349,139,Beans,Coffee,Colombian,Regular
+BEC1-916-407,07-09-2015,Major Market,West,California,912,308,168,121,109,39,142,Beans,Espresso,Caffe Latte,Regular
+LHC2-760-457,07-10-2015,Major Market,West,California,984,211,117,81,22,125,33,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-510-539,07-11-2015,Major Market,West,California,1272,522,265,225,69,258,91,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-805-318,07-12-2015,Major Market,West,California,930,309,172,118,33,190,44,Leaves,Tea,Darjeeling,Regular
+BCD2-435-549,07/13/2015,Small Market,West,Utah,601,196,102,82,31,56,64,Beans,Coffee,Decaf Irish Cream,Decaf
+BCD2-509-952,07/14/2015,Small Market,West,Washington,694,239,130,94,85,24,114,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-971-303,07/15/2015,Small Market,West,Oregon,1283,387,182,181,50,160,74,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-435-731,07/16/2015,Small Market,West,Utah,1060,160,81,69,21,58,42,Beans,Coffee,Amaretto,Regular
+BCC1-541-237,07/17/2015,Small Market,West,Oregon,470,136,75,53,17,21,61,Beans,Coffee,Colombian,Regular
+BEC1-775-590,07/19/2015,Small Market,West,Nevada,848,42,24,15,4,13,15,Beans,Espresso,Caffe Latte,Regular
+LHC2-702-211,07/21/2015,Small Market,West,Nevada,912,308,168,121,109,39,142,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-206-759,07/22/2015,Small Market,West,Washington,1134,346,195,130,42,181,73,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-541-904,07/24/2015,Small Market,West,Oregon,561,213,112,88,29,104,42,Leaves,Herbal Tea,Lemon,Decaf
+LHM2-775-721,07/25/2015,Small Market,West,Nevada,803,296,165,113,36,-41,58,Leaves,Herbal Tea,Mint,Decaf
+LTD1-775-508,07/26/2015,Small Market,West,Nevada,1691,567,304,228,75,11,108,Leaves,Tea,Darjeeling,Regular
+LTE1-702-125,07/27/2015,Small Market,West,Nevada,1778,451,212,211,59,190,84,Leaves,Tea,Earl Grey,Regular
+LTE1-503-806,07/28/2015,Small Market,West,Oregon,798,210,119,78,25,92,57,Leaves,Tea,Earl Grey,Regular
+LTG1-775-959,07/29/2015,Small Market,West,Nevada,7653,34,-245,245,93,-505,127,Leaves,Tea,Green Tea,Regular
+LTG1-971-790,07/30/2015,Small Market,West,Oregon,666,261,143,102,31,132,54,Leaves,Tea,Green Tea,Regular
+BCD2-951-787,07/31/2015,Major Market,West,California,4216,205,-32,224,73,-221,117,Beans,Coffee,Decaf Irish Cream,Decaf
+BED2-209-730,08-01-2015,Major Market,West,California,1744,614,329,247,81,321,113,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-209-502,08-02-2015,Major Market,West,California,2947,109,-25,127,40,49,63,Beans,Coffee,Amaretto,Regular
+BCC1-530-964,08-03-2015,Major Market,West,California,2642,745,420,279,97,402,149,Beans,Coffee,Colombian,Regular
+LHC2-916-213,08-06-2015,Major Market,West,California,1003,224,124,86,24,132,35,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-661-509,08-07-2015,Major Market,West,California,1321,559,284,241,74,279,96,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-323-294,08-08-2015,Major Market,West,California,959,322,179,123,34,199,45,Leaves,Tea,Darjeeling,Regular
+BED2-360-356,08-12-2015,Small Market,West,Washington,1079,188,96,80,24,76,45,Beans,Espresso,Decaf Espresso,Decaf
+BCA1-435-213,08/13/2015,Small Market,West,Utah,1075,148,76,63,19,53,40,Beans,Coffee,Amaretto,Regular
+BCC1-360-826,08/14/2015,Small Market,West,Washington,461,188,104,72,23,92,46,Beans,Coffee,Colombian,Regular
+BEC1-435-493,08/16/2015,Small Market,West,Utah,540,228,120,94,31,158,43,Beans,Espresso,Caffe Latte,Regular
+LHC2-702-154,08/17/2015,Small Market,West,Nevada,940,343,187,135,122,47,155,Leaves,Herbal Tea,Chamomile,Decaf
+LHC2-253-250,08/18/2015,Small Market,West,Washington,1166,308,174,115,37,-64,69,Leaves,Herbal Tea,Chamomile,Decaf
+LHL2-702-868,08/19/2015,Small Market,West,Nevada,1191,569,310,224,73,288,116,Leaves,Herbal Tea,Lemon,Decaf
+LHL2-503-930,08/20/2015,Small Market,West,Oregon,551,197,104,81,26,98,38,Leaves,Herbal Tea,Lemon,Decaf
+LTD1-775-581,08/22/2015,Small Market,West,Nevada,1744,614,329,247,81,319,114,Leaves,Tea,Darjeeling,Regular
+LTE1-971-423,08/24/2015,Small Market,West,Oregon,817,236,133,88,29,108,60,Leaves,Tea,Earl Grey,Regular
+LTG1-775-979,08/25/2015,Small Market,West,Nevada,8252,33,-294,294,111,-605,145,Leaves,Tea,Green Tea,Regular
+LTG1-435-395,08/27/2015,Small Market,West,Utah,218,48,25,20,7,-22,40,Leaves,Tea,Green Tea,Regular
